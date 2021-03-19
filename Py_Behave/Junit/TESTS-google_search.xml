@@ -1,12 +1,12 @@
-<testsuite name="google_search.google search checking" tests="3" errors="0" failures="0" skipped="0" time="16.128065" timestamp="2021-03-19T14:15:24.337614" hostname="DESKTOP-AT2K5M2"><testcase classname="google_search.google search checking" name="simple google search" status="passed" time="5.349138"><system-out>
+<testsuite name="google_search.google search checking" tests="3" errors="0" failures="0" skipped="0" time="13.638373" timestamp="2021-03-19T14:32:49.194005" hostname="DESKTOP-AT2K5M2"><testcase classname="google_search.google search checking" name="simple google search" status="passed" time="5.805362"><system-out>
 <![CDATA[
 @scenario.begin
 
   @single
   Scenario: simple google search
-    Given open browser ... passed in 1.871s
-    When search element with "Selenium" ... passed in 0.105s
-    Then back to homepage ... passed in 3.373s
+    Given open browser ... passed in 2.299s
+    When search element with "Selenium" ... passed in 0.100s
+    Then back to homepage ... passed in 3.406s
 
 @scenario.end
 --------------------------------------------------------------------------------
@@ -20,15 +20,15 @@ before_step activated
 after_step activated
 
 ]]>
-</system-out></testcase><testcase classname="google_search.google search checking" name="simple google search -- @1.1 " status="passed" time="3.98031"><system-out>
+</system-out></testcase><testcase classname="google_search.google search checking" name="simple google search -- @1.1 " status="passed" time="3.999583"><system-out>
 <![CDATA[
 @scenario.begin
 
   @multi
   Scenario Outline: simple google search -- @1.1 
-    Given open browser ... passed in 0.554s
-    When search element with "Java" ... passed in 0.060s
-    Then back to homepage ... passed in 3.366s
+    Given open browser ... passed in 0.527s
+    When search element with "Java" ... passed in 0.069s
+    Then back to homepage ... passed in 3.404s
 
 @scenario.end
 --------------------------------------------------------------------------------
@@ -42,15 +42,15 @@ before_step activated
 after_step activated
 
 ]]>
-</system-out></testcase><testcase classname="google_search.google search checking" name="simple google search -- @1.2 " status="passed" time="6.798616"><system-out>
+</system-out></testcase><testcase classname="google_search.google search checking" name="simple google search -- @1.2 " status="passed" time="3.833428"><system-out>
 <![CDATA[
 @scenario.begin
 
   @multi
   Scenario Outline: simple google search -- @1.2 
-    Given open browser ... passed in 3.396s
-    When search element with "Python" ... passed in 0.071s
-    Then back to homepage ... passed in 3.332s
+    Given open browser ... passed in 0.423s
+    When search element with "Python" ... passed in 0.058s
+    Then back to homepage ... passed in 3.352s
 
 @scenario.end
 --------------------------------------------------------------------------------
