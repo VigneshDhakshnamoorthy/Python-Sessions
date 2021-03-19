@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "736e04d1959525d6551ab314a497c8cdeab87c4706cabe8edc0aeb84d8f1b8c2"
+            "sha256": "c41be9228e39178002ee03030e62ecdd12265fe39103889a6ad7c3abeb0be972"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -386,6 +386,30 @@
             ],
             "index": "pypi",
             "version": "==2.25.1"
+        },
+        "robotframework": {
+            "hashes": [
+                "sha256:1f76f568293ceaaaa53f39a637811baa571f57c01e2f7131c0254ad0dd631368",
+                "sha256:a02a6f4af3b0830e4396058694c333cb63eb47f50acf6723be34f0f7a4d73ad7"
+            ],
+            "index": "pypi",
+            "version": "==4.0"
+        },
+        "robotframework-pythonlibcore": {
+            "hashes": [
+                "sha256:1b311764721b6117d85b0702ab95a7f1d0525d9d3e3433cca02cdbc0010edb55",
+                "sha256:b5b30239086b656e2fb6adbc91e988b9745636bd0d3ff7db2ab0cab43b0621a9"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5' and python_version < '4'",
+            "version": "==2.2.1"
+        },
+        "robotframework-seleniumlibrary": {
+            "hashes": [
+                "sha256:22373d59a7061a75ef9bd2b4d163d72af74d40a141f9391d68ae89fae441b203",
+                "sha256:87fd0a58af66b9e04b0450aa25692e34835f3d267db827de5d285839572cd4ff"
+            ],
+            "index": "pypi",
+            "version": "==5.1.1"
         },
         "selenium": {
             "hashes": [
