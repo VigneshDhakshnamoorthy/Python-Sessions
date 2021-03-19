@@ -23,22 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="robot project pip added">
-      <change afterPath="$PROJECT_DIR$/Py_Behave/command_behave.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/command_robot.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-2.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-3.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-4.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-5.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/log.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/output.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest_training/command_pytest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_unittest_training/command_unitest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Selenium_Python_Class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium_Python_Class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/Testcase/TC1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/Testcase/TC1.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/gecksync.py" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/gecksync.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usual_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/usual_command.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -86,48 +73,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.dynamicTable">
-    <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Python_Class" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_training" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_training/anagram.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="calling_func_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Python_Class" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_training" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_training/calling_func_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="dynamicTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Python_Class" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,27 +86,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Training/dynamicTable.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="file_handle_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Python_Class" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_Training" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Training/file_handle_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,14 +118,11 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.dynamicTable" />
-        <item itemvalue="Python.anagram" />
-        <item itemvalue="Python.file_handle_test" />
         <item itemvalue="Python.sort_array" />
-        <item itemvalue="Python.calling_func_2" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\vigne\AppData\Roaming\Subversion</configuration>
   </component>
@@ -325,67 +246,5 @@
     <MESSAGE value="command updated" />
     <MESSAGE value="robot project pip added" />
     <option name="LAST_COMMIT_MESSAGE" value="robot project pip added" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616151951083">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616151951083" />
-    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616149703965">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616149703965" />
-    <state x="774" y="261" key="FileChooserDialogImpl" timestamp="1616137543450">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="774" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616137543450" />
-    <state x="803" y="418" key="Github.ShareDialog" timestamp="1616134845202">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="803" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616134845202" />
-    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1616145515323">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616145515323" />
-    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1616145515323">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616145515323" />
-    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1616145515323">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616145515323" />
-    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1616145515323">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616145515323" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1616151995104">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616151995104" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616150680020">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616150680020" />
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616143819893">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616143819893" />
-    <state x="645" y="308" key="git4idea.merge.GitPullDialog" timestamp="1616137405426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="645" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616137405424" />
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616136247885">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616136247885" />
-    <state x="726" y="206" width="536" height="628" key="svn.repositoryBrowser" timestamp="1616137546775">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="726" y="206" width="536" height="628" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1616137546775" />
-    <state x="777" y="293" key="svn4idea.import.options" timestamp="1616137545757">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="293" key="svn4idea.import.options/0.0.1920.1040@0.0.1920.1040" timestamp="1616137545757" />
   </component>
 </project>
