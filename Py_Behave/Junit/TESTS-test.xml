@@ -1,0 +1,15 @@
+<testsuite name="test.testing browser title" tests="1" errors="0" failures="0" skipped="0" time="7.333802" timestamp="2021-03-17T16:19:28.430716" hostname="DESKTOP-AT2K5M2"><testcase classname="test.testing browser title" name="visit https://crash-stats.mozilla.com/ and check -- @1.1 Browser" status="passed" time="7.333802"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario Outline: visit https://crash-stats.mozilla.com/ and check -- @1.1 Browser
+    When we visit "https://crash-stats.mozilla.com/" ... passed in 7.331s
+    Then it should have a title "Crash Stats Homepage" ... passed in 0.003s
+
+@scenario.end
+--------------------------------------------------------------------------------
+
+Captured stdout:
+Crash Stats Homepage
+
+]]>
+</system-out></testcase></testsuite>

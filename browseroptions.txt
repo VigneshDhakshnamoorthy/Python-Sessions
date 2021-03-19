@@ -1,0 +1,14 @@
+.add_argument("--headless");
+.add_argument("--incognito")
+.add_argument("-private")
+.add_argument("start-maximized");
+.add_argument("--disable-gpu");
+.add_argument("--start-fullscreen");
+.add_argument("--disable-extensions");
+.add_argument("--disable-popup-blocking");
+.add_argument("--disable-notifications");
+.add_argument("--window-size=1920,1080");
+.add_argument("--no-sandbox");
+.add_argument("--dns-prefetch-disable");
+.add_argument("enable-automation");
+.add_argument("disable-features=NetworkService");

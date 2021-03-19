@@ -1,0 +1,67 @@
+<testsuite name="google_search.google search checking" tests="3" errors="0" failures="0" skipped="0" time="18.952854" timestamp="2021-03-17T21:02:06.358068" hostname="DV"><testcase classname="google_search.google search checking" name="simple google search" status="passed" time="7.547184"><system-out>
+<![CDATA[
+@scenario.begin
+
+  @single
+  Scenario: simple google search
+    Given open browser ... passed in 2.594s
+    When search element with "Selenium" ... passed in 0.469s
+    Then back to homepage ... passed in 4.485s
+
+@scenario.end
+--------------------------------------------------------------------------------
+
+Captured stdout:
+before_step activated
+after_step activated
+before_step activated
+after_step activated
+before_step activated
+after_step activated
+
+]]>
+</system-out></testcase><testcase classname="google_search.google search checking" name="simple google search -- @1.1 " status="passed" time="5.445891"><system-out>
+<![CDATA[
+@scenario.begin
+
+  @multi
+  Scenario Outline: simple google search -- @1.1 
+    Given open browser ... passed in 1.031s
+    When search element with "Java" ... passed in 0.172s
+    Then back to homepage ... passed in 4.243s
+
+@scenario.end
+--------------------------------------------------------------------------------
+
+Captured stdout:
+before_step activated
+after_step activated
+before_step activated
+after_step activated
+before_step activated
+after_step activated
+
+]]>
+</system-out></testcase><testcase classname="google_search.google search checking" name="simple google search -- @1.2 " status="passed" time="5.959778"><system-out>
+<![CDATA[
+@scenario.begin
+
+  @multi
+  Scenario Outline: simple google search -- @1.2 
+    Given open browser ... passed in 0.844s
+    When search element with "Python" ... passed in 0.188s
+    Then back to homepage ... passed in 4.928s
+
+@scenario.end
+--------------------------------------------------------------------------------
+
+Captured stdout:
+before_step activated
+after_step activated
+before_step activated
+after_step activated
+before_step activated
+after_step activated
+
+]]>
+</system-out></testcase></testsuite>
