@@ -23,9 +23,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="robot project pip added">
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/Testcase/TC1.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/gecksync.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Behave/command_behave.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/command_robot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-2.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-3.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-4.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-5.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_training/command_pytest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_unittest_training/command_unitest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/Testcase/TC1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/Testcase/TC1.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/gecksync.py" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/gecksync.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usual_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/usual_command.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616149817571</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="robot project pip added">
+      <created>1616150677962</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616150677962</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,10 +327,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="robot project pip added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616144400430">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616151951083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616144400430" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616151951083" />
     <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616149703965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -339,14 +359,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616145515323" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1616149735711">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1616151995104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616149735711" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616149820126">
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616151995104" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616150680020">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616149820126" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616150680020" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616143819893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,32 +1,9 @@
 pipenv lock -r > requirements.txt
 
----------behave------------
-behave Py_Behave/features/google_search.feature --tags @single
-behave --verbose Py_Behave/features
-
-
-behave  -f allure_behave.formatter:AllureFormatter -o Py_Behave/allure Py_Behave/features
-allure serve Py_Behave/allure
-
-allure download : https://github.com/allure-framework/allure2/releases/tag/2.13.5
+pipenv install -r requirements.txt
 
 
 
-behave --format=cucumber_json:PrettyCucumberJSONFormatter -o cucumber.json  --format=json -o behave.json Py_Behave/features/google_search.feature
-
-behave --format=json -o data.json
-
-behave pybehave_env_test/test.feature
-
----------behave------------
 
 
----------pytest-----------
-pytest pytest_BDD_training/step_defs/samplepyBDD.py
----------pytest-----------
-
-----------unit test-----------
-unit test html runner:
-python python_unittest_training/test_sample_1.py
-----------unit test-----------
 

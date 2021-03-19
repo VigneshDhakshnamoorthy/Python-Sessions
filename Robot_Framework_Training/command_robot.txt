@@ -1,0 +1,1 @@
+robot -d ../python/Robot_Framework_Training/report Robot_Framework_Training\Testcase\TC1.robot

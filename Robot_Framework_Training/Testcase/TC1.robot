@@ -1,12 +1,15 @@
 *** Settings ***
 Library  SeleniumLibrary
+Library  gecksync.py
 
 *** Variables ***
+${LOGIN URL}      http://www.google.com
+${BROWSER}        webdrivermanager firefox chrome --linkpath /usr/local/bin
 
 *** Test Cases ***
 LoginTest
-    open browser  https://www.google.com firefox
-    input text  name:q
-
+    Open Browser To Login Page
 
 *** Keywords ***
+Open Browser To Login Page
+    Open Browser    ${LOGIN URL}    ${BROWSER}
