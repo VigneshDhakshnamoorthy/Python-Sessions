@@ -801,6 +801,17 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1616144395166	Marionette	WARN	TLS certificate errors will be ignored for this session
 1616144399278	Marionette	INFO	Stopped listening on port 10751
 JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616155992099	geckodriver	INFO	Listening on 127.0.0.1:13216
+1616155995132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "--window-size=1280,1024" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilekcsOYF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616156000283	Marionette	INFO	Listening on port 13224
+1616156000522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616156007550	Marionette	INFO	Stopped listening on port 13224
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
 1616175776400	geckodriver	INFO	Listening on 127.0.0.1:2568
 1616175779488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Vignesh\\AppData\\Local\\Temp\\rust_mozprofileZCKavZ"
 *** You are running in headless mode.
@@ -820,3 +831,14 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/JceIw9a1pfWTHvRavFZ
 1616175825989	Marionette	INFO	Stopped listening on port 2580
 JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
 JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Vignesh\AppData\Local\Temp\rust_mozprofileZCKavZ\protections.sqlite
+1616218026812	geckodriver	INFO	Listening on 127.0.0.1:12476
+1616218029816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "--window-size=1280,1024" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile05SUuG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616218035732	Marionette	INFO	Listening on port 12484
+1616218036141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616218042464	Marionette	INFO	Stopped listening on port 12484
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
