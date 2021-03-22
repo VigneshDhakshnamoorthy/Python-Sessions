@@ -23,13 +23,13 @@ sql_query = pd.read_sql_query(f'SELECT * FROM {database}.{table_name};', conn)
 # sql_query.to_excel(File_Loc)
 
 # Columns
-#print(sql_query.columns)
+# print(sql_query.columns)
 
 # AGENT_USERNAME
-#print(sql_query["AGENT_USERNAME"])
+# print(sql_query["AGENT_USERNAME"])
 
 # head
-#print(sql_query.head(6))
+# print(sql_query.head(6))
 
 # iloc
 # print(sql_query.iloc[1:6])
@@ -38,7 +38,9 @@ sql_query = pd.read_sql_query(f'SELECT * FROM {database}.{table_name};', conn)
 # # loc filter
 # print(sql_query.loc[sql_query["AGENT_USERNAME"] == "Vigneshd@shoppingzoneindia.com"])
 # print(sql_query.loc[sql_query["AGENT_USERNAME"].str.contains('Vignesh')])
-# print(sql_query.loc[sql_query["AGENT_USERNAME"].str.contains('Vignesh') | sql_query["AGENT_USERNAME"].str.contains('vignesh')])
 
-#index_vignesh = sql_query.loc[sql_query["AGENT_USERNAME"] == "Vigneshd@shoppingzoneindia.com"].index.item()
-#print(sql_query.iloc[index_vignesh])
+# print(sql_query.loc[sql_query["AGENT_USERNAME"].str.contains('Vignesh') | sql_query["AGENT_USERNAME"].str.contains(
+# 'vignesh')])
+
+index_vignesh = sql_query.loc[sql_query["AGENT_USERNAME"] == "Vigneshd@shoppingzoneindia.com"].index.item()
+print(sql_query.iloc[index_vignesh, 24])
