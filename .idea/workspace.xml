@@ -22,13 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="factorial pro added">
+    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="pandas work out">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Training/Excel/moneydata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Training/Excel/moneydata.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Training/dynamicTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Training/dynamicTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Training/file_handle_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Training/file_handle_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Training/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Training/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Training/test_apitest.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_test_Training/test_apitest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -339,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616411500878</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="pandas work out">
+      <created>1616415734431</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1616415734431</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,7 +373,8 @@
     <MESSAGE value="sql project added" />
     <MESSAGE value="sql project edited" />
     <MESSAGE value="factorial pro added" />
-    <option name="LAST_COMMIT_MESSAGE" value="factorial pro added" />
+    <MESSAGE value="pandas work out" />
+    <option name="LAST_COMMIT_MESSAGE" value="pandas work out" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616151951083">
@@ -426,10 +429,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616414779322" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616411502170">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616415737370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616411502170" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616415737370" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616143819893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
