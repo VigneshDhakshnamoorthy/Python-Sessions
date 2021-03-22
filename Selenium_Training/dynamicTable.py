@@ -34,7 +34,7 @@ for company in WebElement:
 File_Loc = "../Selenium_Training/Excel/moneydata.xlsx"
 
 data_out = pd.DataFrame(companies)
-data_out.to_excel(File_Loc)
-data_in = pd.read_excel(File_Loc, usecols=[1, 2, 3, 4, 5])
+data_out.to_excel(File_Loc, index=False)
+data_in = pd.read_excel(File_Loc, usecols=[0,1, 2, 3, 4, 5])
 print(data_in)
 driver.quit()
