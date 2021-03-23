@@ -23,6 +23,5 @@ for name in country_name:
 print(country_menu.is_multiple)
 country_menu.select_by_visible_text("SERBIA")
 print(country_menu.first_selected_option.text)
-
 driver.quit()
 
