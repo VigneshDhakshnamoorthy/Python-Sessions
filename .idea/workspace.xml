@@ -22,25 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="nested dictionary added">
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-10.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-11.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-12.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-13.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-15.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-18.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-6.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-7.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-8.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-9.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/Testcase/TC1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/Testcase/TC1.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/gecksync.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/report/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/log.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/report/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/output.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Training/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Training/geckodriver.log" afterDir="false" />
-    </list>
+    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="robot framework edited" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,9 +38,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1pW8XnphxXF6hMDSD5TMFHmmDD1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -385,7 +369,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616506255083</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="robot framework edited">
+      <created>1616570614500</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1616570614500</updated>
+    </task>
+    <task id="LOCAL-00026" summary="robot framework edited">
+      <created>1616570690392</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1616570690392</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -422,7 +420,8 @@
     <MESSAGE value="vs code" />
     <MESSAGE value="login form created" />
     <MESSAGE value="nested dictionary added" />
-    <option name="LAST_COMMIT_MESSAGE" value="nested dictionary added" />
+    <MESSAGE value="robot framework edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="robot framework edited" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616493876155">
@@ -477,14 +476,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616493112661" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616506257583">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616570691730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616506257583" />
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616494941813">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616570691730" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616570862338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616494941813" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616570862338" />
     <state x="645" y="308" key="git4idea.merge.GitPullDialog" timestamp="1616137405426">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
