@@ -73,7 +73,7 @@
       <recent name="C:\Users\Vignesh\Google Drive\Code\Selenium_Python_Class\Selenium_Training" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.alert_handle">
+  <component name="RunManager" selected="Python.nested_dict">
     <configuration name="alert_handle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Python_Class" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,9 +181,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.alert_handle" />
         <item itemvalue="Python.nested_dict" />
         <item itemvalue="Python.login_register" />
+        <item itemvalue="Python.alert_handle" />
         <item itemvalue="Python.multi_thread_test" />
         <item itemvalue="Python.sql_testing_1" />
       </list>
