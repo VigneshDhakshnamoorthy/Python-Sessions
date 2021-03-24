@@ -54,5 +54,5 @@ print("-" * 150)
 print((df.loc[df["% Change"] > 3]))
 
 print("-" * 150)
-print(df.sort_values(by="Prev Close (Rs)", ascending=False))
+print(df.loc[df["% Change"] > 3].sort_values(by="Prev Close (Rs)", ascending=False))
 
