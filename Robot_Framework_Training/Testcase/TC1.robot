@@ -1,15 +1,14 @@
 *** Settings ***
 Library  SeleniumLibrary
-Library  gecksync
 
 *** Variables ***
 ${LOGIN URL}      http://www.google.com
-${BROWSER}        gecksync.browser
+${chromedriver_path}  gecksync.gecko_sync
+${BROWSER}        Firefox
 
 *** Test Cases ***
 LoginTest
-    Open Browser To Login Page
+    Open Browser    ${LOGIN URL}    ${BROWSER}
+    close all browsers
 
 *** Keywords ***
-Open Browser To Login Page
-    Open Browser    ${LOGIN URL}    ${BROWSER}

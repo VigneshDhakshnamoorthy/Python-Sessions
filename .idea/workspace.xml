@@ -22,10 +22,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="login form created">
-      <change afterPath="$PROJECT_DIR$/python_training/Files_Test/customer_details.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_training/nested_dict.py" afterDir="false" />
+    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="nested dictionary added">
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-10.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-11.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-12.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-13.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-15.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-6.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-7.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-8.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/geckodriver-9.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/Testcase/TC1.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/Testcase/TC1.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/gecksync.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/report/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/report/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot_Framework_Training/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Robot_Framework_Training/report/report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Selenium_Training/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Training/geckodriver.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,19 +78,19 @@
     <option name="mySaveCallSignatures" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vigne\Google Drive\Code\Selenium_Python_Class" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vigne\Documents\python\Robot_Framework_Training\Testcase" />
       <recent name="C:\Users\vigne\Documents\python\api_test_Training" />
       <recent name="C:\Users\Vignesh\Google Drive\Code\Selenium_Python_Class\pybehave_env_test\steps" />
       <recent name="C:\Users\Vignesh\Google Drive\Code\Selenium_Python_Class\pytest_training" />
       <recent name="C:\Users\Vignesh\Google Drive\Code\Selenium_Python_Class\Selenium_Training" />
-      <recent name="C:\Users\vigne\Google Drive\Code\Selenium_Python_Class\Py_Behave\features" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\vigne\Google Drive\Code\Selenium_Python_Class" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.nested_dict">
-    <configuration name="file_handle_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.alert_handle">
+    <configuration name="alert_handle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Python_Class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Training/file_handle_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Training/alert_handle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.alert_handle" />
         <item itemvalue="Python.nested_dict" />
         <item itemvalue="Python.login_register" />
         <item itemvalue="Python.multi_thread_test" />
         <item itemvalue="Python.sql_testing_1" />
-        <item itemvalue="Python.file_handle_test" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616502299484</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="nested dictionary added">
+      <created>1616506255083</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1616506255083</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +421,8 @@
     <MESSAGE value="pipenv changed" />
     <MESSAGE value="vs code" />
     <MESSAGE value="login form created" />
-    <option name="LAST_COMMIT_MESSAGE" value="login form created" />
+    <MESSAGE value="nested dictionary added" />
+    <option name="LAST_COMMIT_MESSAGE" value="nested dictionary added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616493876155">
@@ -420,22 +441,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="803" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616134845202" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1616505911817">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1616569334250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616505911817" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1616505911817">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616569334250" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1616569334250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616505911817" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1616505911817">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616569334250" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1616569334250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616505911817" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1616505911817">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616569334250" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1616569334250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616505911817" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616569334250" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1616415622488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -456,10 +477,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616493112661" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616502302292">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616506257583">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616502302292" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616506257583" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616494941813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -472,6 +493,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616136247885" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1616568693920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616568693920" />
     <state x="726" y="206" width="536" height="628" key="svn.repositoryBrowser" timestamp="1616137546775">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
