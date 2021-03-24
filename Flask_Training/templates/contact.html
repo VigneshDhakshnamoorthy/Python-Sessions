@@ -1,14 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Contact</title>
-</head>
-<body>
-<a href="/">Main</a>
-<h1>
-   {{ name }}
-</h1>
+{% extends "base.html" %}
 
-</body>
-</html>
+{% block content %}
+
+<a href="/">Main</a><hr>
+  <table>
+    <tr>
+    {% for key in details.keys() %}
+        <th>{{ key }}</th>
+    {% endfor %}
+    </tr>
+
+    <tr>
+    {% for value in details.values() %}
+        <td>{{ value }}</td>
+    {% endfor %}
+    </tr>
+</table>
+{% endblock %}

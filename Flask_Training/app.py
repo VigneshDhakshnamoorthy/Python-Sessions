@@ -11,8 +11,8 @@ def main_page():
 
 @app.route('/contact')
 def contact_page():
-    name = "Contact Page"
-    return render_template("contact.html", name=name)
+    details = {"Name" : "KMDV", "Location" : "International", "Type":"Private Limited"}
+    return render_template("contact.html", details=details)
 
 
 if __name__ == '__main__':
