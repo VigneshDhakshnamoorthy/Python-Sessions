@@ -1,13 +1,11 @@
 import pandas as pd
 import pyodbc
-import time
 
 server = '192.168.137.15'
 database = 'Shopping_Zone'
 table_name = 'dbo.f_agent_master'
 username = 'sa'
 password = 'manoj.111'
-t1 = time.perf_counter()
 conn = pyodbc.connect(
     'DRIVER={ODBC Driver 17 for SQL Server};SERVER=' + server + ';UID=' + username + ';PWD=' + password)
 cursor = conn.cursor()
@@ -16,7 +14,7 @@ cursor = conn.cursor()
 # for row in cursor:
 #     print(row)
 
-sql_query = pd.read_sql_query(f'SELECT * FROM {database}.{table_name};',conn)
+sql_query = pd.read_sql_query(f'SELECT * FROM {database}.{table_name};', conn)
 
 # print(sql_query)
 
@@ -45,7 +43,4 @@ sql_query = pd.read_sql_query(f'SELECT * FROM {database}.{table_name};',conn)
 # 'vignesh')])
 
 index_vignesh = sql_query.loc[sql_query["AGENT_USERNAME"] == "Vigneshd@shoppingzoneindia.com"].index.item()
-print(sql_query.iloc[index_vignesh,24])
-
-t2 = time.perf_counter()
-print(f'Took {round(t2 - t1,2)} Seconds to finish')
+print(sql_query.iloc[index_vignesh, 24])
