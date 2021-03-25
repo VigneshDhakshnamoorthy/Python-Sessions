@@ -51,6 +51,7 @@ robotframework = "==4.0"
 robotframework-seleniumlibrary = "==5.1.1"
 pyodbc = "==4.0.30"
 robotframework-pythonlibcore = "==2.2.1"
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"
