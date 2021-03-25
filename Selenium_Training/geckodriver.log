@@ -879,9 +879,9 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-ists, new profile?" (new Error("", "(unknown module)"))
-1616411804408	Marionette	INFO	Listening on port 5739
-1616411804510	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+	TLS certificate errors will be ignored for this session
 JavaScript warning: https://pagead2.googlesyndication.com/bg/q-Ezh273PvC68AkqxY9CU3NkuwIwgTF06gKyS1kdSdY.js line 1 > eval line 1122 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 1616411810238	Marionette	INFO	Stopped listening on port 5739
@@ -919,8 +919,9 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/qcWZRcRw4fq915xPB9D
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1616569230325	geckodriver	INFO	Listening on 127.0.0.1:8177
-1616569233386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileb4mYTx"
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileb4mYTx"
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1616569237655	Marionette	INFO	Listening on port 8186
 1616569238200	Marionette	WARN	TLS certificate errors will be ignored for this session
