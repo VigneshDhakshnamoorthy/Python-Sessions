@@ -22,13 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="git loc changed">
-      <change afterPath="$PROJECT_DIR$/Flask_Training/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask_Training/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_Training/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask_Training/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_Training/templates/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask_Training/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_Training/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="flask dynamic table" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
