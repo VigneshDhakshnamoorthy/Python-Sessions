@@ -165,9 +165,6 @@
       <module name="Selenium_Python_Class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter_Training" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -175,7 +172,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter_Training/simple_gui_1.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -185,10 +182,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.simple_gui_1" />
+        <item itemvalue="Python.simple_gui_1" />
         <item itemvalue="Python.graph_pandas" />
         <item itemvalue="Python.nested_dict" />
         <item itemvalue="Python.app" />
-        <item itemvalue="Python.Test_special_keys" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616753717025</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="tkinter created">
+      <created>1616757276614</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1616757276614</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -510,22 +514,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="803" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616134845202" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1616757241393">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1616758270921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616757241393" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1616757241393">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616758270921" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1616758270921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616757241393" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1616757241393">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616758270921" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1616758270921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616757241393" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1616757241393">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616758270921" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1616758270921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616757241393" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616758270921" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1616415622488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -550,10 +554,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616576248789" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616753719947">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616757278271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616753719947" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616757278271" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616570862338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
