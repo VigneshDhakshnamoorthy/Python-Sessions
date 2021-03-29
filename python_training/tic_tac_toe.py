@@ -22,7 +22,7 @@ def print_board():
 def input_from_x():
     print()
     if " " in input_user.values():
-        x = int(input(f'Enter position ({player_1} - X) : '))
+        x = int(input(f'Enter position - {player_1} (X) : '))
         if input_user[x] == " ":
             input_user[x] = "X"
             print_board()
@@ -44,7 +44,7 @@ def input_from_x():
 def input_from_o():
     print()
     if " " in input_user.values():
-        x = int(input(f'Enter position ({player_2} - O) : '))
+        x = int(input(f'Enter position - {player_2} (O) : '))
         if input_user[x] == " ":
             input_user[x] = "O"
             print_board()
