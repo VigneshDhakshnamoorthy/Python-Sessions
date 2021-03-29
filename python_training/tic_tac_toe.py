@@ -100,10 +100,16 @@ def winner_declare():
     winner_find("O")
     if win_log["X"]:
         print()
-        print("X is Winner")
-    if win_log["O"]:
         print()
-        print("O is Winner")
+        print("*** X is Winner ***")
+    elif win_log["O"]:
+        print()
+        print()
+        print("*** O is Winner ***")
+    else:
+        print()
+        print()
+        print("*** Draw ***")
 
 
 input_from_x()
