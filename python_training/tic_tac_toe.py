@@ -34,9 +34,6 @@ def input_from_x():
         else:
             input_from_x()
 
-
-
-
     else:
         print("Done")
 
@@ -56,32 +53,30 @@ def input_from_o():
         else:
             input_from_o()
 
-
-
     else:
         print("Done")
 
 
-win_log={ "X": False, "O": False }
+win_log = {"X": False, "O": False}
 
 
 def winner_find(wl):
     if input_user[1] == input_user[2] == input_user[3] == wl:
-        win_log[wl]=True
+        win_log[wl] = True
     elif input_user[4] == input_user[5] == input_user[6] == wl:
-        win_log[wl]=True
+        win_log[wl] = True
     elif input_user[7] == input_user[8] == input_user[9] == wl:
-        win_log[wl]=True
+        win_log[wl] = True
     elif input_user[1] == input_user[4] == input_user[7] == wl:
-        win_log[wl]=True
+        win_log[wl] = True
     elif input_user[2] == input_user[5] == input_user[8] == wl:
-        win_log[wl]=True
+        win_log[wl] = True
     elif input_user[3] == input_user[6] == input_user[9] == wl:
-        win_log[wl]=True
+        win_log[wl] = True
     elif input_user[1] == input_user[5] == input_user[9] == wl:
-        win_log[wl]=True
+        win_log[wl] = True
     elif input_user[3] == input_user[5] == input_user[7] == wl:
-        win_log[wl]=True
+        win_log[wl] = True
 
 
 def winner_found():

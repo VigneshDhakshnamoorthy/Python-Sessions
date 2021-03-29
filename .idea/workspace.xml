@@ -22,10 +22,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="tic toe">
-      <change afterPath="$PROJECT_DIR$/Selenium_Training/x_rates.py" afterDir="false" />
+    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="home laptop updated">
+      <change beforePath="$PROJECT_DIR$/.idea/Selenium_Python_Class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium_Python_Class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Training/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Training/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_training/tic_tac_toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_training/tic_tac_toe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +46,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1pW8XnphxXF6hMDSD5TMFHmmDD1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -60,25 +63,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
-  <component name="PyDebuggerOptionsProvider">
-    <option name="mySaveCallSignatures" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vigne\Google Drive\Code\Selenium_Python_Class" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vigne\Documents\python\Robot_Framework_Training\Testcase" />
-      <recent name="C:\Users\vigne\Documents\python\api_test_Training" />
       <recent name="C:\Users\Vignesh\Google Drive\Code\Selenium_Python_Class\pybehave_env_test\steps" />
       <recent name="C:\Users\Vignesh\Google Drive\Code\Selenium_Python_Class\pytest_training" />
       <recent name="C:\Users\Vignesh\Google Drive\Code\Selenium_Python_Class\Selenium_Training" />
+      <recent name="C:\Users\vigne\Google Drive\Code\Selenium_Python_Class\Py_Behave\features" />
+      <recent name="C:\Users\vigne\Google Drive\Code\Selenium_Python_Class\Py_Behave\features\steps" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.x_rates">
-    <configuration name="simple_gui_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.tic_tac_toe">
+    <configuration name="factorial_sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Python_Class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter_Training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_training" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter_Training/simple_gui_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_training/factorial_sample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="x_rates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_handle_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Python_Class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +111,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Training/x_rates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Training/file_handle_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multi_thread_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Python_Class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_training/multi_thread_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sort_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Python_Class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_training/sort_array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tic_tac_toe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Python_Class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_training/tic_tac_toe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,13 +185,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.x_rates" />
-        <item itemvalue="Python.simple_gui_1" />
-        <item itemvalue="Python.simple_gui_1" />
+        <item itemvalue="Python.tic_tac_toe" />
+        <item itemvalue="Python.multi_thread_test" />
+        <item itemvalue="Python.file_handle_test" />
+        <item itemvalue="Python.factorial_sample" />
+        <item itemvalue="Python.sort_array" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\vigne\AppData\Roaming\Subversion</configuration>
   </component>
@@ -224,231 +289,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616150677962</updated>
     </task>
-    <task id="LOCAL-00013" summary="new interpreter added">
-      <created>1616218728577</created>
+    <task id="LOCAL-00013" summary="home laptop updated">
+      <created>1616175953942</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1616218728577</updated>
+      <updated>1616175953942</updated>
     </task>
-    <task id="LOCAL-00014" summary="Changes Added">
-      <created>1616392584127</created>
+    <task id="LOCAL-00014" summary="changes from own lap">
+      <created>1616428307830</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1616392584127</updated>
+      <updated>1616428307830</updated>
     </task>
-    <task id="LOCAL-00015" summary="sql project added">
-      <created>1616395830122</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1616395830122</updated>
-    </task>
-    <task id="LOCAL-00016" summary="sql project added">
-      <created>1616395892377</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1616395892377</updated>
-    </task>
-    <task id="LOCAL-00017" summary="sql project edited">
-      <created>1616407302183</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1616407302183</updated>
-    </task>
-    <task id="LOCAL-00018" summary="sql project edited">
-      <created>1616409209646</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1616409209646</updated>
-    </task>
-    <task id="LOCAL-00019" summary="factorial pro added">
-      <created>1616411500878</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1616411500878</updated>
-    </task>
-    <task id="LOCAL-00020" summary="pandas work out">
-      <created>1616415734431</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1616415734431</updated>
-    </task>
-    <task id="LOCAL-00021" summary="pipenv changed">
-      <created>1616475967267</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1616475967267</updated>
-    </task>
-    <task id="LOCAL-00022" summary="vs code">
-      <created>1616494968016</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1616494968016</updated>
-    </task>
-    <task id="LOCAL-00023" summary="login form created">
-      <created>1616502299484</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1616502299484</updated>
-    </task>
-    <task id="LOCAL-00024" summary="nested dictionary added">
-      <created>1616506255083</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1616506255083</updated>
-    </task>
-    <task id="LOCAL-00025" summary="robot framework edited">
-      <created>1616570614500</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1616570614500</updated>
-    </task>
-    <task id="LOCAL-00026" summary="robot framework edited">
-      <created>1616570690392</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1616570690392</updated>
-    </task>
-    <task id="LOCAL-00027" summary="robot framework edited">
-      <created>1616570905128</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1616570905128</updated>
-    </task>
-    <task id="LOCAL-00028" summary="duplicate removed">
-      <created>1616571211510</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1616571211510</updated>
-    </task>
-    <task id="LOCAL-00029" summary="file handle">
-      <created>1616575001298</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1616575001298</updated>
-    </task>
-    <task id="LOCAL-00030" summary="git loc changed">
-      <created>1616576331166</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1616576331166</updated>
-    </task>
-    <task id="LOCAL-00031" summary="flask dynamic table">
-      <created>1616661791055</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1616661791055</updated>
-    </task>
-    <task id="LOCAL-00032" summary="graph added">
-      <created>1616663628963</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1616663628963</updated>
-    </task>
-    <task id="LOCAL-00033" summary=",,,">
-      <created>1616750704396</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1616750704396</updated>
-    </task>
-    <task id="LOCAL-00034" summary="tkinter created">
-      <created>1616753717025</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1616753717025</updated>
-    </task>
-    <task id="LOCAL-00035" summary="tkinter created">
-      <created>1616757276614</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1616757276614</updated>
-    </task>
-    <task id="LOCAL-00036" summary="tkinter created">
-      <created>1616758302531</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1616758302531</updated>
-    </task>
-    <task id="LOCAL-00037" summary="tic toe">
-      <created>1616764551648</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1616764551648</updated>
-    </task>
-    <task id="LOCAL-00038" summary="tic toe">
-      <created>1616999755949</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1616999755949</updated>
-    </task>
-    <task id="LOCAL-00039" summary="tic toe">
-      <created>1617003239637</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1617003239637</updated>
-    </task>
-    <task id="LOCAL-00040" summary="tic toe">
-      <created>1617005973785</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1617005973785</updated>
-    </task>
-    <task id="LOCAL-00041" summary="tic toe">
-      <created>1617005994578</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1617005994578</updated>
-    </task>
-    <task id="LOCAL-00042" summary="tic toe">
-      <created>1617006001779</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1617006001779</updated>
-    </task>
-    <task id="LOCAL-00043" summary="tic toe">
-      <created>1617006185734</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1617006185734</updated>
-    </task>
-    <task id="LOCAL-00044" summary="tic toe">
-      <created>1617006288972</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1617006288972</updated>
-    </task>
-    <option name="localTasksCounter" value="45" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -465,124 +320,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/Python-Automation" />
-    </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="initial csasommit" />
+    <MESSAGE value="allure added" />
+    <MESSAGE value="usual command updated" />
     <MESSAGE value="pipenv changed&#10;excel updated" />
     <MESSAGE value="allure run one more" />
     <MESSAGE value="created new folder" />
     <MESSAGE value="removed new folder" />
     <MESSAGE value="command updated" />
     <MESSAGE value="robot project pip added" />
-    <MESSAGE value="new interpreter added" />
-    <MESSAGE value="Changes Added" />
-    <MESSAGE value="sql project added" />
-    <MESSAGE value="sql project edited" />
-    <MESSAGE value="factorial pro added" />
-    <MESSAGE value="pandas work out" />
-    <MESSAGE value="pipenv changed" />
-    <MESSAGE value="vs code" />
-    <MESSAGE value="login form created" />
-    <MESSAGE value="nested dictionary added" />
-    <MESSAGE value="robot framework edited" />
-    <MESSAGE value="duplicate removed" />
-    <MESSAGE value="file handle" />
-    <MESSAGE value="git loc changed" />
-    <MESSAGE value="flask dynamic table" />
-    <MESSAGE value="graph added" />
-    <MESSAGE value=",,," />
-    <MESSAGE value="tkinter created" />
-    <MESSAGE value="tic toe" />
-    <option name="LAST_COMMIT_MESSAGE" value="tic toe" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="845" y="383" key="#Notifications" timestamp="1616576303267">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="845" y="383" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1616576303267" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617006243761">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617006243761" />
-    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616149703965">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1616149703965" />
-    <state x="774" y="261" key="FileChooserDialogImpl" timestamp="1616576235737">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="774" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616576235737" />
-    <state x="803" y="418" key="Github.ShareDialog" timestamp="1616134845202">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="803" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616134845202" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1617018049418">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617018049418" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1617018049418">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617018049418" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1617018049418">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617018049418" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1617018049418">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617018049418" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1616415622488">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616415622488" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1616415622488">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616415622488" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1616415622488">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616415622488" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1616415622488">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616415622488" />
-    <state x="781" y="222" key="RollbackChangesDialog" timestamp="1616750690072">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="781" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616750690072" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1616576248789">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616576248789" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617006290147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617006290147" />
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616570862338">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616570862338" />
-    <state x="645" y="308" key="git4idea.merge.GitPullDialog" timestamp="1616137405426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="645" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616137405424" />
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616136247885">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616136247885" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1616568693920">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1616568693920" />
-    <state x="726" y="206" width="536" height="628" key="svn.repositoryBrowser" timestamp="1616137546775">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="726" y="206" width="536" height="628" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1616137546775" />
-    <state x="777" y="293" key="svn4idea.import.options" timestamp="1616137545757">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="293" key="svn4idea.import.options/0.0.1920.1040@0.0.1920.1040" timestamp="1616137545757" />
+    <MESSAGE value="home laptop updated" />
+    <MESSAGE value="changes from own lap" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes from own lap" />
   </component>
 </project>
