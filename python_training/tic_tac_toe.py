@@ -1,4 +1,4 @@
-input_user={ 1: " ", 2: " ", 3: " ", 4: " ", 5: " ", 6: " ", 7: " ", 8: " ", 9: " " }
+input_user = {1: " ", 2: " ", 3: " ", 4: " ", 5: " ", 6: " ", 7: " ", 8: " ", 9: " "}
 
 
 def print_board():
@@ -22,9 +22,9 @@ def print_board():
 def input_from_x():
     print()
     if " " in input_user.values():
-        x=int(input("Enter number (X) : "))
+        x = int(input(f'Enter position ({player_1} - X) : '))
         if input_user[x] == " ":
-            input_user[x]="X"
+            input_user[x] = "X"
             print_board()
             if not winner_found():
                 input_from_o()
@@ -44,9 +44,9 @@ def input_from_x():
 def input_from_o():
     print()
     if " " in input_user.values():
-        x=int(input("Enter number (O) : "))
+        x = int(input(f'Enter position ({player_2} - O) : '))
         if input_user[x] == " ":
-            input_user[x]="O"
+            input_user[x] = "O"
             print_board()
             if not winner_found():
                 input_from_x()
@@ -101,15 +101,18 @@ def winner_declare():
     if win_log["X"]:
         print()
         print()
-        print("*** X is Winner ***")
+        print(f'*** {player_1.upper()} is Winner ***')
     elif win_log["O"]:
         print()
         print()
-        print("*** O is Winner ***")
+        print(f'*** {player_2.upper()} is Winner ***')
     else:
         print()
         print()
         print("*** Draw ***")
 
+
+player_1 = input("Enter Player 1 Name : ")
+player_2 = input("Enter Player 2 Name : ")
 
 input_from_x()
