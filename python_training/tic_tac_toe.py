@@ -114,5 +114,4 @@ def winner_declare():
 
 player_1 = input("Enter Player 1 Name : ")
 player_2 = input("Enter Player 2 Name : ")
-
 input_from_x()
