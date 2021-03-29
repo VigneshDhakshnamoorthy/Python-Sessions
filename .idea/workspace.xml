@@ -22,15 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="home laptop updated">
-      <change beforePath="$PROJECT_DIR$/.idea/Selenium_Python_Class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium_Python_Class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_training/tic_tac_toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_training/tic_tac_toe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="hl - tic tac toe" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -303,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616428307830</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="hl - tic tac toe">
+      <created>1617034024645</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1617034024645</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,6 +331,7 @@
     <MESSAGE value="robot project pip added" />
     <MESSAGE value="home laptop updated" />
     <MESSAGE value="changes from own lap" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes from own lap" />
+    <MESSAGE value="hl - tic tac toe" />
+    <option name="LAST_COMMIT_MESSAGE" value="hl - tic tac toe" />
   </component>
 </project>
