@@ -37,7 +37,7 @@ for df_value in df.values:
 print("-" * 50)
 
 index_com = df.loc[df["Company"] == "Tantia Constructions"].index.item()
-print(df.iloc[1,4])
+print(df.iloc[1, 4])
 print("-" * 150)
 
 print(df.count())
@@ -55,4 +55,3 @@ print((df.loc[df["% Change"] > 3]))
 
 print("-" * 150)
 print(df.loc[df["% Change"] > 3].sort_values(by="Prev Close (Rs)", ascending=False))
-
