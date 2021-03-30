@@ -31,7 +31,7 @@ for company in WebElement:
         driver.find_element_by_xpath("//*[contains(text(),'" + company.text + "')]/ancestor::tr/td[5]").text).
                                        replace(" ", "")))
 
-File_Loc = "../Selenium_Training/Excel/moneydata.xlsx"
+File_Loc = "Files/moneydata.xlsx"
 
 data_out = pd.DataFrame(companies)
 data_out.to_excel(File_Loc, index=False)

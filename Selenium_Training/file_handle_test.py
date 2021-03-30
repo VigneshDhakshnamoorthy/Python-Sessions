@@ -22,7 +22,7 @@ import pandas as pd
 
 # excel file read
 
-File_Loc = "../Selenium_Training/Excel/moneydata.xlsx"
+File_Loc = "Files/moneydata.xlsx"
 data_in = pd.read_excel(File_Loc)
 # print(data_in)
 # print("-" * 150)
