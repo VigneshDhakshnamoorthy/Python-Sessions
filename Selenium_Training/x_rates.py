@@ -23,7 +23,7 @@ element.click()
 
 element_country_names=driver.find_elements_by_xpath("//*[@class='tablesorter ratesTable']/tbody/tr/td[1]")
 country_names=[element.text for element in element_country_names]
-country_values={}
+country_values = {}
 for country in country_names:
     country_values[country] = float(driver.find_element_by_xpath(
         f"//table[@class='tablesorter ratesTable']/tbody/tr/td[text()='{country}']/ancestor::tr/td[3]").text)
