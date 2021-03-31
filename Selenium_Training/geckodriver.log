@@ -1311,7 +1311,11 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1617208148695	Marionette	INFO	Listening on port 13529
 1617208149033	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Vignesh\\AppData\\Local\\Temp\\rust_mozprofileShzu0C"
+1617210199202	Marionette	INFO	Stopped listening on port 13529
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\\Temp\\rust_mozprofileShzu0C"
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
 console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))

@@ -33,7 +33,7 @@ print(ele.text)
 
 # XPath axes methods:
 # Following:
-ele = driver.find_element_by_xpath("//*[@type='text']//following::input")
+ele = driver.find_elements_by_xpath("//*[@type='text']//following::input")
 print(ele.text)
 ele = driver.find_element_by_xpath("//*[@type='text']//following::input[1]")
 print(ele.text)
@@ -41,11 +41,11 @@ print(ele.text)
 # Ancestor:
 ele = driver.find_element_by_xpath("//*[text()='Enterprise Testing']//ancestor::div")
 print(ele.text)
-ele = driver.find_element_by_xpath("//*[text()='Enterprise Testing']//ancestor::div[1]")
+ele = driver.find_elements_by_xpath("//*[text()='Enterprise Testing']//ancestor::div[1]")
 print(ele.text)
 
 # Child:
-ele = driver.find_element_by_xpath("//*[@id='java_technologies']//child::li")
+ele = driver.find_elements_by_xpath("//*[@id='java_technologies']//child::li")
 print(ele.text)
 ele = driver.find_element_by_xpath("//*[@id='java_technologies']//child::li[1]")
 print(ele.text)
@@ -71,9 +71,7 @@ ele = driver.find_element_by_xpath("//*[@type='password']//self::input")
 print(ele.text)
 
 # Descendant:
-ele = driver.find_element_by_xpath("//*[@id='rt-feature']//descendant::a")
-print(ele.text)
-ele = driver.find_element_by_xpath("//*[@id='rt-feature']//descendant::a[1]")
+ele = driver.find_element_by_xpath("//*[@class='canvas-middle']//descendant::a[2]")
 print(ele.text)
 
 
