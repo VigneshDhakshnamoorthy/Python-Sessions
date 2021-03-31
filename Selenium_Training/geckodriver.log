@@ -991,3 +991,257 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1617166587067	geckodriver	INFO	Listening on 127.0.0.1:4436
+1617166590077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilebsM4Ga"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617166597521	Marionette	INFO	Listening on port 4445
+1617166597627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617166696846	Marionette	INFO	Stopped listening on port 4445
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617167291910	geckodriver	INFO	Listening on 127.0.0.1:11987
+1617167294924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilerFq15A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617167299419	Marionette	INFO	Listening on port 11995
+1617167299712	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10552, IPC I/O Parent] WARNING: file /builds/worker/1617167436146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileFGsDNe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617167440982	Marionette	INFO	Listening on port 12482
+1617167441613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617167493423	Marionette	INFO	Stopped listening on port 12482
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofiledhHsAU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617167496171	Marionette	INFO	Listening on port 12703
+1617167496707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617169116363	Marionette	INFO	Stopped listening on port 12703
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilettwt44"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617169010955	Marionette	INFO	Listening on port 5770
+1617169011540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617169117020	Marionette	INFO	Stopped listening on port 5771617169117892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileuyUCcP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617169122732	Marionette	INFO	Listening on port 6021
+1617169122771	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617169152733	geckodriver	INFO	Listening on 127.0.0.1:6591
+1617169155773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileMYRzIp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617169160291	Marionette	INFO	Listening on port 6603
+1617169160615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617169379492	Marionette	INFO	Stopped listening on port 6603
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilebcW9My"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617169218048	Marionette	INFO	Listening on port 10560
+1617169218220	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1617169380741	Marionette	INFO	Stopped listening on port 10560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileWMrJjt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617169278448	Marionette	INFO	Listening on port 10759
+1617169278968	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617169381983	Marionette	INFO	Stopped listening on port 10759
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be losconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617169385836	Marionette	INFO	Listening on port 11676
+1617169386232	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617169434814	Marionette	INFO	Stopped listening on port 11676
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lostconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617169437971	Marionette	INFO	Listening on port 11909
+1617169438449	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15440, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617169492032	Marionette	INFO	Stopped listening on port 11909
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617169543952	geckodriver	INFO	Listening on 127.0.0.1:3247
+1617169554947	geckodriver	INFO	Listening on 127.0.0.1:3291
+1617169558020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofiledGGlCe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617169562887	Marionette	INFO	Listening on port 3304
+1617169562994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617169588232	Marionette	INFO	Stopped listening on port 3304
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617169829106	geckodriver	INFO	Listening on 127.0.0.1:3763
+1617169832136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileBvgyqR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617169836452	Marionette	INFO	Listening on port 3774
+1617169836507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617169858292	Marionette	INFO	Stopped listening on port 3774
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617171093504	geckodriver	INFO	Listening on 127.0.0.1:9288
+1617171096526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilevZGY8Q"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617171100019	Marionette	INFO	Listening on port 9300
+1617171100241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 5163 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 3486 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 671 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 7052 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617171121761	Marionette	INFO	Stopped listening on port 9300
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1617171181490	geckodriver	INFO	Listening on 127.0.0.1:2667
+1617171184535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileWXrfkp"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617171188338	Marionette	INFO	Listening on port 2679
+1617171188635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 4770 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 2131 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 4019 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 4413 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617171210973	Marionette	INFO	Stopped listening on port 2679
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\vigne\AppData\Local\Temp\rust_mozprofileWXrfkp\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617171399657	geckodriver	INFO	Listening on 127.0.0.1:3073
+1617171402728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile9vposT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617171406982	Marionette	INFO	Listening on port 3082
+1617171407076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 6174 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 4795 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 858 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 6477 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileGJLvCl"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617171506064	Marionette	INFO	Listening on port 3343
+1617171506399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 7421 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617171527178	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 2308 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 3045 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617171534871	Marionette	INFO	Stopped listening on port 3343
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\vigne\AppData\Local\Temp\rust_mozprofileGJLvCl\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617171787716	geckodriver	INFO	Listening on 127.0.0.1:3917
+1617171790742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile9yLQ58"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617171793888	Marionette	INFO	Listening on port 3927
+1617171793954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 7314 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 6123 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilevWSh7X"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617171847694	Marionette	INFO	Listening on port 4145
+1617171847918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 7404 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 1623 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 6421 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617171873201	Marionette	INFO	Stopped listening on port 4145
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1617172293370	geckodriver	INFO	Listening on 127.0.0.1:1724
+1617172296411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileaOsvuH"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617172301860	Marionette	INFO	Listening on port 1734
+1617172302291	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 7073 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 595 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 593 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617172328538	Marionette	INFO	Stopped listening on port 1734
+1617172955536	geckodriver	INFO	Listening on 127.0.0.1:9935
+1617172958593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile6BjZ4z"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617172962892	Marionette	INFO	Listening on port 9947
+1617172963445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 3111 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617172984703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 7394 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyxoEySbUmHRsVi1cDV04sNKFMM.js line 1 > eval line 4655 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617172987309	Marionette	INFO	Stopped listening on port 9947
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\vigne\AppData\Local\Temp\rust_mozprofile6BjZ4z\protections.sqlite
+1617175062800	geckodriver	INFO	Listening on 127.0.0.1:3801
+1617175065913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile2gynwn"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617175070380	Marionette	INFO	Listening on port 3813
+1617175070732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/exponentialrandomized875428645731/moatad.js#moatClientLevel1=299113&moatClientLevel2=11094602&moatClientLevel3=6811665&moatClientLevel4=728x90&moatClientSlicer1=3820&moatClientSlicer2=36231&zMoatRND=101307424&zMoatCT=INDIA&zMoatDEV=deviceID:170080;osID:210998;browserID:264439, line 267: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/exponentialrandomized875428645731/moatad.js#moatClientLevel1=299113&moatClientLevel2=11094602&moatClientLevel3=6811665&moatClientLevel4=728x90&moatClientSlicer1=3820&moatClientSlicer2=36231&zMoatRND=101307424&zMoatCT=INDIA&zMoatDEV=deviceID:170080;osID:210998;browserID:264439, line 267: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qcWZRcRw4fq915xPB9DSJSeGn7Tspit4rZWzDhmsliY.js line 1 > eval line 1522 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/qcWZRcRw4fq915xPB9DSJSeGn7Tspit4rZWzDhmsliY.js line 1 > eval line 1983 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1617175088921	Marionette	INFO	Stopped listening on port 3813
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
