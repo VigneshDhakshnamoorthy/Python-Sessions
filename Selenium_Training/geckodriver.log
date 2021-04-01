@@ -1157,7 +1157,8 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyx
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
- Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileGJLvCl"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileGJLvCl"
 *** You are running in headless mode.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1617171506064	Marionette	INFO	Listening on port 3343
@@ -1186,7 +1187,8 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyx
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
- Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilevWSh7X"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilevWSh7X"
 *** You are running in headless mode.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1617171847694	Marionette	INFO	Listening on port 4145
