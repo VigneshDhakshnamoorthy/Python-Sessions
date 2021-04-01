@@ -20,7 +20,6 @@ def contact_page():
 def dynamic_data():
     file_loc = "../Selenium_Training/Files/moneydata.xlsx"
     data_in = pd.read_excel(file_loc)
-    print(data_in)
     return render_template("data.html", tables=[data_in.to_html(classes='table', index=False)])
 
 if __name__ == '__main__':

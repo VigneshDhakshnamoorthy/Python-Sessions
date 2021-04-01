@@ -22,11 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="home">
-      <change afterPath="$PROJECT_DIR$/Flask_Training/templates/data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="flask update home">
       <change beforePath="$PROJECT_DIR$/Flask_Training/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_Training/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask_Training/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_Training/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -363,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617293045505</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="flask update home">
+      <created>1617294415120</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1617294415120</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,6 +400,7 @@
     <MESSAGE value="names changed" />
     <MESSAGE value="xpath training" />
     <MESSAGE value="home" />
-    <option name="LAST_COMMIT_MESSAGE" value="home" />
+    <MESSAGE value="flask update home" />
+    <option name="LAST_COMMIT_MESSAGE" value="flask update home" />
   </component>
 </project>
