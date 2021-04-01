@@ -22,5 +22,6 @@ def dynamic_data():
     data_in = pd.read_excel(file_loc)
     return render_template("data.html", tables=[data_in.to_html(classes='table', index=False)])
 
+
 if __name__ == '__main__':
     app.run(debug=True)
