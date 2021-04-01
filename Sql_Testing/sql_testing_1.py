@@ -8,7 +8,7 @@ username = 'sa'
 password = 'manoj.111'
 conn = pyodbc.connect(
     'DRIVER={ODBC Driver 17 for SQL Server};SERVER=' + server + ';UID=' + username + ';PWD=' + password)
-cursor = conn.cursor()
+# cursor = conn.cursor()
 
 # cursor.execute(f'SELECT * FROM {database}.{table_name};')
 # for row in cursor:
@@ -42,5 +42,5 @@ sql_query = pd.read_sql_query(f'SELECT * FROM {database}.{table_name};', conn)
 # print(sql_query.loc[sql_query["AGENT_USERNAME"].str.contains('Vignesh') | sql_query["AGENT_USERNAME"].str.contains(
 # 'vignesh')])
 
-index_vignesh = sql_query.loc[sql_query["AGENT_USERNAME"] == "Vigneshd@shoppingzoneindia.com"].index.item()
-print(sql_query.iloc[index_vignesh, 24])
+# index_vignesh = sql_query.loc[sql_query["AGENT_USERNAME"] == "Vigneshd@shoppingzoneindia.com"].index.item()
+# print(sql_query.iloc[index_vignesh, 24])
