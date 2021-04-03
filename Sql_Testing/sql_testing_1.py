@@ -15,6 +15,7 @@ conn = pyodbc.connect(
 #     print(row)
 
 sql_query = pd.read_sql_query(f'SELECT * FROM {database}.{table_name};', conn)
+sql_query.to_csv("database.txt", index=None, sep=',', mode='w')
 
 #print(sql_query.head())
 

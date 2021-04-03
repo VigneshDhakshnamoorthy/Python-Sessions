@@ -29,13 +29,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="office changes">
+      <change afterPath="$PROJECT_DIR$/Sql_Testing/database.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sql_Testing/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sql_Testing/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_test_Training/test_apitest.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_test_Training/test_apitest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_training/Files_Test/user_details.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_training/Files_Test/user_details.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_training/graph_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_training/graph_pandas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_training/login_register.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_training/login_register.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_training/nested_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_training/nested_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sql_Testing/sql_testing_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sql_Testing/sql_testing_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,28 @@
       <recent name="C:\Users\Vignesh\Google Drive\Code\Selenium_Python_Class\Selenium_Training" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Python.app (1)">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Python_Class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask_Training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask_Training/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Python_Class" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="login_register" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sql_testing_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Python_Class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,32 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_training" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sql_Testing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_training/login_register.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="nested_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Python_Class" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_training" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_training/nested_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sql_Testing/sql_testing_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.sql_testing_1" />
         <item itemvalue="Python.test_apitest" />
         <item itemvalue="Python.graph_pandas" />
-        <item itemvalue="Python.login_register" />
-        <item itemvalue="Python.nested_dict" />
       </list>
     </recent_temporary>
   </component>
@@ -214,13 +211,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615287527658</updated>
-    </task>
-    <task id="LOCAL-00003" summary="allure added">
-      <created>1616143612726</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1616143612726</updated>
     </task>
     <task id="LOCAL-00004" summary="usual command updated">
       <created>1616143894301</created>
@@ -558,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617443610485</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="office changes">
+      <created>1617447773912</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1617447773912</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -626,22 +623,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="803" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616134845202" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1617447055372">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1617455624743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617447055372" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1617447055372">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617455624743" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1617455624743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617447055372" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1617447055372">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617455624743" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1617455624743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617447055372" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1617447055372">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617455624743" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1617455624743">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617447055372" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617455624743" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1616415622488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -666,10 +663,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616576248789" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617443613520">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617447776136">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617443613520" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617447776136" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616570862338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
