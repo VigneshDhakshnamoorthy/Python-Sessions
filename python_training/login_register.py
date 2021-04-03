@@ -39,9 +39,9 @@ def login_old (name,password):
 
 
 def register_new (name,password):
-    file = open (file_loc,'a')
-    file.write (f'\n{name},{password}')
-    file.close ()
+    with open (file_loc,'a') as file:
+        file.write (f'\n{name},{password}')
+
     print (f'Registered :  name - {name} and password - {password}')
     login_old(name,password)
 
