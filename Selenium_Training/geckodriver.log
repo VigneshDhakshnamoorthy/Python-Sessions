@@ -1188,7 +1188,8 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/Ttnmja7GWy_egJOPMyx
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
--foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilevWSh7X"
+Exiting due to channel error.
+file" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilevWSh7X"
 *** You are running in headless mode.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1617171847694	Marionette	INFO	Listening on port 4145
