@@ -3,7 +3,7 @@ import pyodbc
 
 server = '192.168.137.15'
 database = 'Shopping_Zone'
-table_name = 'dbo.f_agent_master'
+table_name = 'dbo.f_scheme_master'
 username = 'sa'
 password = 'manoj.111'
 conn = pyodbc.connect(
@@ -16,7 +16,7 @@ conn = pyodbc.connect(
 
 sql_query = pd.read_sql_query(f'SELECT * FROM {database}.{table_name};', conn)
 
-# print(sql_query)
+#print(sql_query.head())
 
 # save files
 # File_Loc = "../Sql_Testing/agentdata.xlsx"

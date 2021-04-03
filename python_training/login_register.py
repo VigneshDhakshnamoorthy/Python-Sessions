@@ -24,14 +24,14 @@ def type_log ():
 
 def login_old (name,password):
     success = False
-    file = open (file_loc,'r')
-    for i in file:
-        a,b = i.split (",")
-        b = b.strip ()
-        if a == name and b == password:
-            success = True
-            break
-    file.close ()
+    with open (file_loc,'r') as file:
+        for i in file:
+            a,b = i.split (",")
+            b = b.strip ()
+            if a == name and b == password:
+                success = True
+                break
+
     if (success == True):
         print (f'Logged in :  name - {name} and password - {password}')
     else:

@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=("POST", "GET"))
 def contact_page():
-    return render_template("index.html", tables=[sql_query[['AFENT_FULLNAME', 'EMP_CODE', 'AGENT_USERNAME', 'AGENT_PASSWORD']].to_html(classes='table', index=False)])
+    return render_template("index.html", tables=[sql_query[['SCHEME_NAME', 'GRAND_TOTAL']].loc[sql_query['GRAND_TOTAL'] > 0].to_html(classes='table', index=True)])
 
 
 if __name__ == '__main__':
