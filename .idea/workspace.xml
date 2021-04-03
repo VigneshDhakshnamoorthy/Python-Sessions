@@ -28,7 +28,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="sql flask" />
+    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="sql flask">
+      <change afterPath="$PROJECT_DIR$/Flask_Training/static/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_Training/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_Training/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_Training/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_Training/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_Training/templates/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_Training/templates/data.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_Training/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_Training/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +86,28 @@
       <recent name="C:\Users\Vignesh\Google Drive\Code\Selenium_Python_Class\Selenium_Training" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Python.app (1)">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Python_Class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask_Training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask_Training/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Python_Class" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,27 +121,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sql_Testing/app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="file_handle_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_Python_Class" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium_Training" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_Training/file_handle_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.sql_testing_1" />
         <item itemvalue="Python.x_rates" />
         <item itemvalue="Python.file_read_write_append" />
-        <item itemvalue="Python.file_handle_test" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617267858998</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="sql flask">
+      <created>1617435834475</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1617435834475</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -556,7 +570,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/Python-Automation" />
     </ignored-roots>
-    <MESSAGE value="created new folder" />
     <MESSAGE value="removed new folder" />
     <MESSAGE value="command updated" />
     <MESSAGE value="robot project pip added" />
@@ -581,7 +594,8 @@
     <MESSAGE value="tic toe" />
     <MESSAGE value="xrates" />
     <MESSAGE value="office" />
-    <option name="LAST_COMMIT_MESSAGE" value="office" />
+    <MESSAGE value="sql flask" />
+    <option name="LAST_COMMIT_MESSAGE" value="sql flask" />
   </component>
   <component name="WindowStateProjectService">
     <state x="845" y="383" key="#Notifications" timestamp="1616576303267">
@@ -604,22 +618,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="803" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616134845202" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1617271895017">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1617436135483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617271895017" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1617271895017">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617436135483" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1617436135483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617271895017" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1617271895017">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617436135483" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1617436135483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617271895017" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1617271895017">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617436135483" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1617436135483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617271895017" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617436135483" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1616415622488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -644,18 +658,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616576248789" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617267860676">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617435835802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617267860676" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617435835802" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616570862338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616570862338" />
-    <state x="645" y="308" key="git4idea.merge.GitPullDialog" timestamp="1616137405426">
+    <state x="645" y="308" key="git4idea.merge.GitPullDialog" timestamp="1617435819701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="645" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616137405424" />
+    <state x="645" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617435819701" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616136247885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

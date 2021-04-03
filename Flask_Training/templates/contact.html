@@ -1,8 +1,18 @@
 {% extends "base.html" %}
 
+{% block tabs %}
+
+     <li><a href="/">Home</a></li>
+    <li class="active"><a href="#">Contact</a></li>
+    <li><a href="/data">Data</a></li>
+
+{% endblock %}
+
+
 {% block content %}
 
-<a href="/">Main</a><hr>
+
+
   <table>
     <tr>
     {% for key in details.keys() %}

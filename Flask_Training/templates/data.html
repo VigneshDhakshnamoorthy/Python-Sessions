@@ -1,8 +1,14 @@
 {% extends "base.html" %}
 
-{% block content %}
+{% block tabs %}
 
-<a href="/contact">Contact</a><hr>
+    <li><a href="/">Home</a></li>
+    <li><a href="/contact">Contact</a></li>
+    <li class="active"><a href="#">Data</a></li>
+
+{% endblock %}
+
+{% block content %}
 
 {% for table in tables %}
 {{ table|safe }}
