@@ -28,7 +28,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="sql flask" />
+    <list default="true" id="a4170bf1-648d-495c-b140-0ee8929d3690" name="Default Changelist" comment="office">
+      <change afterPath="$PROJECT_DIR$/Sql_Testing/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sql_Testing/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sql_Testing/sql_testing_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sql_Testing/sql_testing_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -536,14 +544,7 @@
       <option name="project" value="LOCAL" />
       <updated>1617267858998</updated>
     </task>
-    <task id="LOCAL-00048" summary="sql flask">
-      <created>1617272033288</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1617272033288</updated>
-    </task>
-    <option name="localTasksCounter" value="49" />
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -563,6 +564,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/Python-Automation" />
     </ignored-roots>
+    <MESSAGE value="created new folder" />
     <MESSAGE value="removed new folder" />
     <MESSAGE value="command updated" />
     <MESSAGE value="robot project pip added" />
@@ -587,8 +589,7 @@
     <MESSAGE value="tic toe" />
     <MESSAGE value="xrates" />
     <MESSAGE value="office" />
-    <MESSAGE value="sql flask" />
-    <option name="LAST_COMMIT_MESSAGE" value="sql flask" />
+    <option name="LAST_COMMIT_MESSAGE" value="office" />
   </component>
   <component name="WindowStateProjectService">
     <state x="845" y="383" key="#Notifications" timestamp="1616576303267">
@@ -611,22 +612,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="803" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616134845202" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1617272044009">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1617271895017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617272044009" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1617272044009">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617271895017" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1617271895017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617272044009" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1617272044009">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617271895017" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1617271895017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617272044009" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1617272044009">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617271895017" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1617271895017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617272044009" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617271895017" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1616415622488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -651,10 +652,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616576248789" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617272035297">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617267860676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617272035297" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617267860676" />
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616570862338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
