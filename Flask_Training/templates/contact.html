@@ -13,17 +13,20 @@
 
 
 
-  <table>
+  <table class="table">
+  <thead class="thead-dark">
     <tr>
     {% for key in details.keys() %}
         <th>{{ key }}</th>
     {% endfor %}
     </tr>
-
+     </thead>
+ <tbody>
     <tr>
     {% for value in details.values() %}
         <td>{{ value }}</td>
     {% endfor %}
     </tr>
+      </tbody>
 </table>
 {% endblock %}

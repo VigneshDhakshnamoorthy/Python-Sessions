@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select</title>
+</head>
+<body>
+<form action="/select">
+  <label for="products">Choose a Product:</label>
+  <select name="products" id="products">
+      {% for product in product_list %}
+    <option value={{ product }}>{{ product }}</option>
+   {% endfor %}
+  </select>
+
+
+</form>
+</body>
+</html>

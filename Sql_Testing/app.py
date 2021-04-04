@@ -1,8 +1,8 @@
 from flask import Flask, render_template
 import pandas as pd
 
-app = Flask(__name__)
-sql_query = pd.read_csv("database.txt")
+app=Flask(__name__)
+sql_query=pd.read_csv("database.txt")
 
 sql_query['SCHEME_NAME']=sql_query['SCHEME_NAME'].str.upper()
 
@@ -13,6 +13,12 @@ def database_page():
                                                                                                > 0].sort_values(
         by='GRAND_TOTAL', ascending=False).reset_index(
         drop=True).to_html(classes='table', index=True)])
+
+
+@app.route('/select', methods=("POST", "GET"))
+def select_page():
+    product_list = sql_query['SCHEME_NAME'].loc[sql_query['GRAND_TOTAL'] > 599].sort_values(ascending=True)
+    return render_template("select.html", product_list=product_list)
 
 
 if __name__ == '__main__':
