@@ -207,13 +207,6 @@
       <option name="presentableId" value="Default" />
       <updated>1615287527658</updated>
     </task>
-    <task id="LOCAL-00004" summary="usual command updated">
-      <created>1616143894301</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1616143894301</updated>
-    </task>
     <task id="LOCAL-00005" summary="pipenv changed&#10;excel updated">
       <created>1616144438727</created>
       <option name="number" value="00005" />
@@ -550,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617447773912</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="office">
+      <created>1617603646317</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1617603646317</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -592,10 +592,10 @@
     <MESSAGE value="tkinter created" />
     <MESSAGE value="tic toe" />
     <MESSAGE value="xrates" />
-    <MESSAGE value="office" />
     <MESSAGE value="sql flask" />
     <MESSAGE value="office changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="office changes" />
+    <MESSAGE value="office" />
+    <option name="LAST_COMMIT_MESSAGE" value="office" />
   </component>
   <component name="WindowStateProjectService">
     <state x="845" y="383" key="#Notifications" timestamp="1616576303267">
