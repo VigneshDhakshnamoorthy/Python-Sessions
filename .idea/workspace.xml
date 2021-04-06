@@ -379,7 +379,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617294570956</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="office">
+      <created>1617697485978</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1617697485978</updated>
+    </task>
+    <task id="LOCAL-00028" summary="office">
+      <created>1617697766577</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1617697766577</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,6 +427,7 @@
     <MESSAGE value="xpath training" />
     <MESSAGE value="home" />
     <MESSAGE value="flask update home" />
-    <option name="LAST_COMMIT_MESSAGE" value="flask update home" />
+    <MESSAGE value="office" />
+    <option name="LAST_COMMIT_MESSAGE" value="office" />
   </component>
 </project>
