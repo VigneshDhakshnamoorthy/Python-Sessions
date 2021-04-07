@@ -8,12 +8,12 @@ success = False
 @app.route("/", methods=("POST", "GET"))
 def main_page():
     if request.method == 'POST':
-        uname=request.form['uname']
-        upass=request.form['upass']
-        login_old(uname, upass)
+        u_name = request.form['u_name']
+        u_pass = request.form['u_pass']
+        login_old(u_name, u_pass)
 
         if success:
-            return render_template("login_success.html", name=uname)
+            return render_template("login_success.html", name=u_name)
         else:
             return redirect("/")
 
