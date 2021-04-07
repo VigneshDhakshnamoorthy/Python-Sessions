@@ -57,6 +57,7 @@ Cycler = "==0.10.0"
 Pillow = "==8.1.2"
 beautifulsoup4 = "*"
 lxml = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.8"
