@@ -3,9 +3,9 @@ import numpy as np
 
 page=pd.read_html("https://money.rediff.com/gainers/bse/daily/groupall")
 
-page[0]['% Change']=np.array([float(li.replace("+ ", "")) for li in page[0]['% Change']])
-# File_Loc = "Files/rediff.xlsx"
-# page[0].to_excel(File_Loc, index=False)
+page[0]['% Change'] = np.array([float(li.replace("+ ", "")) for li in page[0]['% Change']])
+File_Loc = "Files/rediff.xlsx"
+page[0].to_excel(File_Loc, index=False)
 
 
 np_columns = np.array(page[0].columns)
