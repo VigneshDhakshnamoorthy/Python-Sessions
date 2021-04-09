@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-page=pd.read_html("https://money.rediff.com/gainers/bse/daily/groupall")
+page = pd.read_html("https://money.rediff.com/gainers/bse/daily/groupall")
 
 page[0]['% Change'] = np.array([float(li.replace("+ ", "")) for li in page[0]['% Change']])
 File_Loc = "Files/rediff.xlsx"
