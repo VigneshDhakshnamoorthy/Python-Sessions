@@ -1248,3 +1248,47 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/qcWZRcRw4fq915xPB9D
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 1617175088921	Marionette	INFO	Stopped listening on port 3813
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1617883409158	geckodriver	INFO	Listening on 127.0.0.1:4867
+1617883412186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilejghkE1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617883416486	Marionette	INFO	Listening on port 4876
+1617883416526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 6047 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 1190 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ Firefox\\firefox.exe" "--marionette" "-private" "--window-size=1280,1024" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile5XJ5lU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1617883500416	Marionette	INFO	Listening on port 5031
+1617883500848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617883507048	Marionette	INFO	Stopped listening on port 5031
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1617883409158	geckodriver	INFO	Listening on 127.0.0.1:4867
+1617883412186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilejghkE1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617883416486	Marionette	INFO	Listening on port 4876
+1617883416526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 6047 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 1190 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ Firefox\\firefox.exe" "--marionette" "-private" "--window-size=1280,1024" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile5XJ5lU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1617883500416	Marionette	INFO	Listening on port 5031
+1617883500848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617883507048	Marionette	INFO	Stopped listening on port 5031
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
