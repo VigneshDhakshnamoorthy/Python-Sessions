@@ -18,7 +18,7 @@ driver.get("http://demo.guru99.com/test/newtours/register.php")
 country_menu = Select(driver.find_element_by_xpath("//*[@name='country']"))
 country_name = country_menu.options
 
-np_country = [name.text for name in country_name]
+np_country = np.array([name.text for name in country_name])
 for country in np_country:
     print(country)
 
