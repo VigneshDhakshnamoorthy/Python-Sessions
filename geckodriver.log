@@ -4434,3 +4434,15 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught e
 JavaScript error: , line 0: uncaught exception: 2147500036
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5073: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
 JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+1618071383268	geckodriver	INFO	Listening on 127.0.0.1:5675
+1618071386287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Vignesh\\AppData\\Local\\Temp\\rust_mozprofilePnP3ia"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618071395548	Marionette	INFO	Listening on port 5683
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1618071395972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618071401643	Marionette	INFO	Stopped listening on port 5683
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
