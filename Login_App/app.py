@@ -1,7 +1,7 @@
 from flask import Flask, render_template, redirect, request
 
 app = Flask(__name__)
-file_loc = "../Login_App/datebase/user_details.txt"
+file_loc = "Login_App/datebase/user_details.txt"
 
 
 @app.route("/", methods=("POST", "GET"))
