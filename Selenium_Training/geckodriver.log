@@ -1258,9 +1258,10 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://pagead2.googlesyndication.com/bg/rg7ZOtwj_KsF30rM_Y0_DmvJrp5jy6rfjTYWIxfvKAc.js line 1 > eval line 1190 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
-console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
- Firefox\\firefox.exe" "--marionette" "-private" "--window-size=1280,1024" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile5XJ5lU"
+console.log: WebExtensions: reset-default-search: No addons in our list are instalJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+ow-size=1280,1024" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile5XJ5lU"
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1617883500416	Marionette	INFO	Listening on port 5031
