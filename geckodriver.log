@@ -4193,8 +4193,9 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/DbMZ0rSwrYdtGIgs0aJ
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://pagead2.googlesyndication.com/bg/DbMZ0rSwrYdtGIgs0aJlrMhQhsJZwxQeXkiX5VBkOL0.js line 1 > eval line 3512 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
-1618033260656	geckodriver	INFO	Listening on 127.0.0.1:6042
-1618033263659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileLGv2oT"
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileLGv2oT"
 *** You are running in headless mode.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1618033268361	Marionette	INFO	Listening on port 6050
@@ -4203,13 +4204,33 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/DbMZ0rSwrYdtGIgs0aJ
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://pagead2.googlesyndication.com/bg/DbMZ0rSwrYdtGIgs0aJlrMhQhsJZwxQeXkiX5VBkOL0.js line 1 > eval line 2266 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
-1618033318250	geckodriver	INFO	Listening on 127.0.0.1:6160
-1618033321314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "--window-size=1280,1024" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileMtBd77"
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ Firefox\\firefox.exe" "--marionette" "-private" "--window-size=1280,1024" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileMtBd77"
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1618033325404	Marionette	INFO	Listening on port 6168
 1618033325520	Marionette	WARN	TLS certificate errors will be ignored for this session
 1618033331991	Marionette	INFO	Stopped listening on port 6168
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618039158152	geckodriver	INFO	Listening on 127.0.0.1:7764
+1618039161174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "--window-size=1280,1024" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileQyiv6A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1618039166110	Marionette	INFO	Listening on port 7773
+1618039166291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618039173143	Marionette	INFO	Stopped listening on port 7773
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618039184996	geckodriver	INFO	Listening on 127.0.0.1:7846
+1618039188033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileiMi6lR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618039192110	Marionette	INFO	Listening on port 7854
+1618039192235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618039208580	Marionette	INFO	Stopped listening on port 7854
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
