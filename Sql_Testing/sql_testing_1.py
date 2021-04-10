@@ -15,7 +15,7 @@ conn = pyodbc.connect(
 #     print(row)
 
 sql_query = pd.read_sql_query(f'SELECT * FROM {database}.{table_name};', conn)
-sql_query.to_csv("database.txt", index=None, sep=',', mode='w')
+sql_query.to_csv("Sql_Testing/database.txt", index=None, sep=',', mode='w')
 
 # print(sql_query.head())
 
@@ -43,5 +43,5 @@ sql_query.to_csv("database.txt", index=None, sep=',', mode='w')
 # print(sql_query.loc[sql_query["AGENT_USERNAME"].str.contains('Vignesh') | sql_query["AGENT_USERNAME"].str.contains(
 # 'vignesh')])
 
-# index_vignesh = sql_query.loc[sql_query["AGENT_USERNAME"] == "Vigneshd@shoppingzoneindia.com"].index.item()
-# print(sql_query.iloc[index_vignesh, 24])
+index_vignesh = sql_query.loc[sql_query["AGENT_USERNAME"] == "Vigneshd@shoppingzoneindia.com"].index.item()
+print(sql_query.iloc[index_vignesh, 24])

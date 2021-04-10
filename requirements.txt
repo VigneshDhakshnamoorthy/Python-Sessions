@@ -16,7 +16,7 @@ cycler==0.10.0
 et-xmlfile==1.0.1
 flask==1.1.2
 glob2==0.7
-greenlet==1.0.0; python_version >= '3'
+greenlet==1.0.0
 html-testrunner==1.2.1
 idna==2.10
 iniconfig==1.1.1
@@ -48,7 +48,7 @@ robotframework-seleniumlibrary==5.1.1
 robotframework==4.0
 selenium==3.141.0
 six==1.15.0
-soupsieve==2.2.1; python_version >= '3.0'
+soupsieve==2.2.1
 sqlalchemy==1.4.6
 toml==0.10.2
 urllib3==1.26.4
