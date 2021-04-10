@@ -3,5 +3,11 @@
     "git.allowForcePush": true,
     "git.allowNoVerifyCommit": true,
     "git.postCommitCommand": "push",
-    "git.autofetch": null
+    "git.autofetch": null,
+    "python.testing.pytestArgs": [
+        "pytest_training"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
 }
