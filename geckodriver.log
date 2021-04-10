@@ -4318,3 +4318,34 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1618068802922	Marionette	INFO	Listening on port 4389
 1618068803191	Marionette	WARN	TLS certificate errors will be ignored for this session
 1618068895756	Marionette	INFO	Stopped listening on port 4389
+1618069327864	geckodriver	INFO	Listening on 127.0.0.1:4613
+1618069330895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Vignesh\\AppData\\Local\\Temp\\rust_mozprofile39vbZI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618069340458	Marionette	INFO	Listening on port 4621
+1618069340838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618069348587	Marionette	INFO	Stopped listening on port 4621
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1618069587025	geckodriver	INFO	Listening on 127.0.0.1:4710
+1618069590634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Vignesh\\AppData\\Local\\Temp\\rust_mozprofile9z6Zyw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1618069601609	Marionette	INFO	Listening on port 4720
+1618069601700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618069607194	Marionette	INFO	Stopped listening on port 4720
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 4064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618069734064	geckodriver	INFO	Listening on 127.0.0.1:4785
+1618069737112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Vignesh\\AppData\\Local\\Temp\\rust_mozprofile1Vi4Rx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618069744085	Marionette	INFO	Listening on port 4794
+1618069744449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618069749638	Marionette	INFO	Stopped listening on port 4794
+[Parent 3200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
