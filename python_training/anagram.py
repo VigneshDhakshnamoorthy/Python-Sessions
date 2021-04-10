@@ -18,3 +18,8 @@ if a == b:
 else:
     print("Both Words Are Not Anagram")
 
+
+a = ["V", "I", "G", "N", "E", "S", "H"]
+b = ["D", "H", "E", "S", "N", "A"]
+
+print("".join(a)+ " "+ "".join(b))
