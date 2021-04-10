@@ -60,6 +60,7 @@ SQLAlchemy = "==1.4.6"
 Werkzeug = "==1.0.1"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.9"

@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
+import numpy as np
 
 from webdriver_manager.firefox import GeckoDriverManager
 
@@ -17,8 +18,9 @@ driver.get("http://demo.guru99.com/test/newtours/register.php")
 country_menu = Select(driver.find_element_by_xpath("//*[@name='country']"))
 country_name = country_menu.options
 
-for name in country_name:
-    print(name.text)
+np_country = [name.text for name in country_name]
+for country in np_country:
+    print(country)
 
 print(country_menu.is_multiple)
 country_menu.select_by_visible_text("SERBIA")
