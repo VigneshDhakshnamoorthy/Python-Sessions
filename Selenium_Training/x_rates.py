@@ -33,5 +33,5 @@ for key, value in country_values.items():
         print(f'Highest Country Value : {key} || Value : {value} ')
 
 time_out = time.perf_counter()
-print(f'Took {time_out - time_in}')
+print(f'Taken {time_out - time_in}')
 driver.quit()
