@@ -1,5 +1,9 @@
+import sys
+sys.path.append(".")
+
 from Page_Object_Model.browser_setup import *
 from Page_Object_Model.login_page import LoginPage
+
 
 driver.get(URL)
 
