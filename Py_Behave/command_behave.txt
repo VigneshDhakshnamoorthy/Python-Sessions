@@ -4,6 +4,7 @@ behave --verbose Py_Behave/features
 
 behave  -f allure_behave.formatter:AllureFormatter -o Py_Behave/allure Py_Behave/features
 allure serve Py_Behave/allure
+allure generate Py_Behave/allure --clean -o Py_Behave/allure_report
 
 allure download : https://github.com/allure-framework/allure2/releases/tag/2.13.5
 

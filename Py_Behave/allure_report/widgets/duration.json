@@ -1,0 +1,31 @@
+[ {
+  "uid" : "51a56cdadf130486",
+  "name" : "simple google search -- @1.1 ",
+  "time" : {
+    "start" : 1618232004325,
+    "stop" : 1618232008412,
+    "duration" : 4087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94693dae76efc937",
+  "name" : "simple google search",
+  "time" : {
+    "start" : 1618231980148,
+    "stop" : 1618232004325,
+    "duration" : 24177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87458e0636120055",
+  "name" : "simple google search -- @1.2 ",
+  "time" : {
+    "start" : 1618232008424,
+    "stop" : 1618232012331,
+    "duration" : 3907
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
