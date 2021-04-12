@@ -1,5 +1,4 @@
 from selenium import webdriver
-from Page_Object_Model.login_page import LoginPage
 from time import sleep
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.firefox import GeckoDriverManager

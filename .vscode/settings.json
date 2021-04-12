@@ -1,7 +1,20 @@
 {
-    "python.pythonPath": "C:\\Users\\vigne\\.virtualenvs\\python-2mmW-UTN\\Scripts\\python.exe",
+    "python.pythonPath": "C:\\Users\\Vignesh\\.virtualenvs\\Python-Automation-AUYAhdqW\\Scripts\\python.exe",
     "git.allowForcePush": true,
     "git.allowNoVerifyCommit": true,
     "git.postCommitCommand": "push",
-    "git.autofetch": null
+    "git.autofetch": null,
+    "python.testing.pytestArgs": [
+        "pytest_training"
+    ],
+    "python.testing.unittestEnabled": true,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./python_unittest_training",
+        "-p",
+        "test_*.py"
+    ]
 }
