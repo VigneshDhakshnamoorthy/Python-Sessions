@@ -4557,3 +4557,102 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1618303410194	geckodriver	INFO	Listening on 127.0.0.1:4772
+1618303413197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileymcPst"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618303417871	Marionette	INFO	Listening on port 4781
+1618303418009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618303427286	Marionette	INFO	Stopped listening on port 4781
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en&region=us&callback=onApiLoad, line 113: Error: Could not load "search_impl".
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618303469485	geckodriver	INFO	Listening on 127.0.0.1:4850
+1618303472556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile2RIVv8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618303477185	Marionette	INFO	Listening on port 4858
+1618303477490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618303484930	Marionette	INFO	Stopped listening on port 4858
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en&region=us&callback=onApiLoad, line 113: Error: Could not load "search_impl".
+[Parent 11176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618303516112	geckodriver	INFO	Listening on 127.0.0.1:4966
+1618303519150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilea6bGih"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618303523466	Marionette	INFO	Listening on port 4974
+1618303523984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618303533069	Marionette	INFO	Stopped listening on port 4974
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en&region=us&callback=onApiLoad, line 113: Error: Could not load "search_impl".
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618303592094	geckodriver	INFO	Listening on 127.0.0.1:5086
+1618303595157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilec8hzAa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618303599490	Marionette	INFO	Listening on port 5094
+1618303600315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618303608669	Marionette	INFO	Stopped listening on port 5094
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en&region=us&callback=onApiLoad, line 113: Error: Could not load "search_impl".
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618304541279	geckodriver	INFO	Listening on 127.0.0.1:5578
+1618304544336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileOj3KKl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618304548622	Marionette	INFO	Listening on port 5586
+1618304549128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618304556680	Marionette	INFO	Stopped listening on port 5586
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en&region=us&callback=onApiLoad, line 113: Error: Could not load "search_impl".
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618304581589	geckodriver	INFO	Listening on 127.0.0.1:5692
+1618304584626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileyH8ZWq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618304588667	Marionette	INFO	Listening on port 5700
+1618304588821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618304596329	Marionette	INFO	Stopped listening on port 5700
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en&region=us&callback=onApiLoad, line 113: Error: Could not load "search_impl".
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618304629034	geckodriver	INFO	Listening on 127.0.0.1:5810
+1618304632084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileUpBBqR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618304636338	Marionette	INFO	Listening on port 5819
+1618304679856	Marionette	INFO	Stopped listening on port 5819
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilelrCoQL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618304658635	Marionette	INFO	Listening on port 5873
+1618304659048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618304666833	Marionette	INFO	Stopped listening on port 5873
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en&region=us&callback=onApiLoad, line 113: Error: Could not load "search_impl".
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\vigne\AppData\Local\Temp\rust_mozprofilelrCoQL\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618304705741	geckodriver	INFO	Listening on 127.0.0.1:5981
+1618304708784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileB7LvuS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618304712931	Marionette	INFO	Listening on port 5989
+1618304713002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618304722269	Marionette	INFO	Stopped listening on port 5989
+[Parent 14212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

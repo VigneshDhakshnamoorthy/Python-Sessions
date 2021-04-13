@@ -1,2 +1,2 @@
 
-pytest pytest_BDD_training/step_defs/samplepyBDD.py
+pytest pytest_training\browser_yield.py
