@@ -1,7 +1,7 @@
 
 import array as arr
 
-print("---- List ----")
+print("----- List -----")
 list = ["mango", "strawberry", "orange",
         "apple", "banana"]
 
@@ -11,7 +11,7 @@ print(list[2:4])
 list[1] = "grapes"
 print(list[1])
 
-print("---- Tuple ----")
+print("----- Tuple -----")
 tuple = ("orange", "apple", "banana")
 print(tuple)
 
@@ -19,7 +19,7 @@ print(tuple[2])
 
 print(tuple[0:2])
 
-print("---- Array ----")
+print("----- Array -----")
 
 a = arr.array('i', [1, 2, 3])
 print("The new created array is : ", end=" ")
