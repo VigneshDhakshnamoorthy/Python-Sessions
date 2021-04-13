@@ -26,5 +26,11 @@ def print_board(bo):
                 print(str(bo[i][j]) + " ", end="")
 
 
-print_board(board)
 
+def solve_array():
+    for i in range(len(board)):
+        for j in range(len(board[i])):
+            if board[i][j] == 0:
+                print(board[i][j],end=" ")
+        print()
+solve_array()
