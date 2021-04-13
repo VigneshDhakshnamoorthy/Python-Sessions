@@ -14,6 +14,7 @@ list.insert(1,"gowa")
 print(list)
 list.sort()
 print(list)
+print(f'index of strawberry = {list.index("strawberry")}')
 
 a = [1, 2, 3, 4, 5, 6, 7, 6, 5, 4, 3, 2, 1]
 
