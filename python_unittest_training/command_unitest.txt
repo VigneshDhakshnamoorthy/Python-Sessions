@@ -1,2 +1,2 @@
 unit test html runner:
-python python_unittest_training/test_sample_1.py
+python python_unittest_training/sample_1.py
