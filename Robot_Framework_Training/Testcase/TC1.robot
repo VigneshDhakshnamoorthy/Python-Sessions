@@ -3,7 +3,6 @@ Library  SeleniumLibrary
 
 *** Variables ***
 ${LOGIN URL}      http://www.google.com
-${chromedriver_path}  gecksync.gecko_sync
 ${BROWSER}        Firefox
 
 *** Test Cases ***
