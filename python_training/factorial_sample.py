@@ -6,4 +6,4 @@ def fact(num):
 
 
 for i in range(1,11):
-    print(f'{i} Factorial is {fact(i)}')
+    print(f'{i} Factorial = {fact(i)}')
