@@ -3,7 +3,7 @@
     "git.allowForcePush": true,
     "git.allowNoVerifyCommit": true,
     "git.postCommitCommand": "push",
-    "git.autofetch": null,
+    "git.autofetch": true,
     "python.testing.pytestArgs": [
         "pytest_training"
     ],
