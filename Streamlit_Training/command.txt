@@ -1,0 +1,1 @@
+streamlit run Streamlit_Training\test_1.py
