@@ -5420,3 +5420,26 @@ JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Us
 JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 1618829404019	Marionette	INFO	Stopped listening on port 7407
 [Parent 4516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618835503343	geckodriver	INFO	Listening on 127.0.0.1:8250
+1618835506378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilehCux2o"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618835509818	Marionette	INFO	Listening on port 8258
+1618835510040	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilejdhvBv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618835630612	Marionette	INFO	Listening on port 8393
+1618835631087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618835634265	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://123.201.136.226/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://123.201.136.226/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.201.136.226/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.201.136.226/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://123.201.136.226/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: http://123.201.136.226/crm_report/sourceRptSummary_cc.aspx, line 433: TypeError: $(...).datetimepicker is not a function
+1618836170658	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618836306859	Marionette	INFO	Stopped listening on port 8393

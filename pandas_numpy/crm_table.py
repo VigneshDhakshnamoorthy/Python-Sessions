@@ -16,13 +16,13 @@ driver = webdriver.Firefox(
     executable_path=GeckoDriverManager().install(), options=option)
 wait = WebDriverWait(driver, 15)
 driver.implicitly_wait(15)
-driver.get("http://192.168.137.14/Default.aspx?K=%27Y%27")
+driver.get("http://123.201.136.226/Default.aspx?K=%27Y%27")
 ele_username = driver.find_element_by_id("txtuser").send_keys("vignesh")
 ele_password = driver.find_element_by_id("txtpass").send_keys("v1990h")
 driver.find_element_by_id("btnLogin").click()
-driver.get("http://192.168.137.14/crm_report/sourceRptSummary_cc.aspx")
+driver.get("http://123.201.136.226/crm_report/sourceRptSummary_cc.aspx")
 
-start_date = datetime.date(year=2021, month=3, day=19)
+start_date = datetime.date(year=2021, month=4, day=1)
 end_date = datetime.date(year=2021, month=4,  day=18)
 
 current_date = start_date
