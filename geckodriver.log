@@ -4781,3 +4781,466 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1618814925037	geckodriver	INFO	Listening on 127.0.0.1:14881
+1618814928095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileebr3M8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618814931890	Marionette	INFO	Listening on port 14889
+1618814932250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618814935189	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.kansoftware.com/Scripts/js/modernizr.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.kansoftware.com/Scripts/js/modernizr.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+1618814950467	Marionette	INFO	Stopped listening on port 14889
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618814960270	geckodriver	INFO	Listening on 127.0.0.1:14987
+1618814963329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilexK46kK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618814967051	Marionette	INFO	Listening on port 14995
+1618814967590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618814968507	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+1618814979799	Marionette	INFO	Stopped listening on port 14995
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618815079560	geckodriver	INFO	Listening on 127.0.0.1:1104
+1618815082623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileTyFanm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815086354	Marionette	INFO	Listening on port 1112
+1618815086800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618815088632	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618815098441	Marionette	INFO	Stopped listening on port 1112
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618815278430	geckodriver	INFO	Listening on 127.0.0.1:1236
+1618815281499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileLHcl2w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815284992	Marionette	INFO	Listening on port 1244
+1618815285209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618815287337	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618815327194	Marionette	INFO	Stopped listening on port 1244
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile71qTRD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815329780	Marionette	INFO	Listening on port 1317
+1618815329862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618815331839	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618815338219	Marionette	INFO	Stopped listening on port 1317
+1618815404037	geckodriver	INFO	Listening on 127.0.0.1:1385
+1618815407131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileoAHwNy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815411219	Marionette	INFO	Listening on port 1394
+1618815411323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618815412816	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618815519764	Marionette	INFO	Stopped listening on port 1394
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile4VwgGO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815476509	Marionette	INFO	Listening on port 1466
+1618815476702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618815479511	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 3900, IPC I/O Parent] WARNING: file /builds/worker/1618815508377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofiletDTbue"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815512381	Marionette	INFO	Listening on port 1547
+1618815512565	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14928, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618815516670	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 14928, IPC I/O Parent] WARNING: file /builds/worker1618815537933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile1EstMB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815541964	Marionette	INFO	Listening on port 1636
+1618815542117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618815544289	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618815603654	Marionette	INFO	Stopped listening on port 1631618815603948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileyIABwi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815607868	Marionette	INFO	Listening on port 1720
+1618815608155	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1618815611589	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618815624847	Marionette	INFO	Stopped listening on port 1721618815627019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilecaniJg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815630922	Marionette	INFO	Listening on port 1787
+1618815631236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618815634128	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618815650808	Marionette	INFO	Stopped listening on port 1781618815653368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilegKbOeD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815657247	Marionette	INFO	Listening on port 1864
+1618815657545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618815659509	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618815703092	Marionette	INFO	Stopped listening on port 1864
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618815917512	geckodriver	INFO	Listening on 127.0.0.1:1994
+1618815920579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile8k8oXY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815924381	Marionette	INFO	Listening on port 2004
+1618815924766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618815938668	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618815969575	Marionette	INFO	Stopped listening on port 2001618815971722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileCO1SMK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618815975502	Marionette	INFO	Listening on port 2085
+1618815975906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618815978719	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10824, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618816024852	Marionette	INFO	Stopped listening on port 2085
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618816162451	geckodriver	INFO	Listening on 127.0.0.1:2186
+1618816165525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile2r49gw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618816169689	Marionette	INFO	Listening on port 2196
+1618816169726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618816172471	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618816331280	Marionette	INFO	Stopped listening on port 2196
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618816302598	Marionette	INFO	Listening on port 2296
+1618816303089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618816308819	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 17212, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618816332497	Marionette	INFO	Stopped listening on port 2296
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618816588923	geckodriver	INFO	Listening on 127.0.0.1:2420
+1618816592003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilevWJN6G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618816595754	Marionette	INFO	Listening on port 2430
+1618816596173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618816600831	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618816611036	Marionette	INFO	Stopped listening on port 2430
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618816748767	geckodriver	INFO	Listening on 127.0.0.1:2513
+1618816751860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilexy3xi0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618816755978	Marionette	INFO	Listening on port 2522
+1618816756065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618816762438	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618816935057	Marionette	INFO	Stopped listening on port 2522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618817091462	geckodriver	INFO	Listening on 127.0.0.1:2746
+1618817094534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilezGBd9j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618817098433	Marionette	INFO	Listening on port 2755
+1618817098724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618817100566	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 15412, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618817140628	Marionette	INFO	Stopped listening on port 2755
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618817150324	geckodriver	INFO	Listening on 127.0.0.1:2831
+1618817153368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile7DYezt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618817157156	Marionette	INFO	Listening on port 2839
+1618817157545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618817159557	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.137.14"
+[Parent 4548, IPC I/O Parent] WARNING: file /builds/worker/1618817309603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileS8UI05"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618817313744	Marionette	INFO	Listening on port 2945
+1618817313793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618817315399	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618817495369	Marionette	INFO	Stopped listening on port 2945
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileM5sBBH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618817343991	Marionette	INFO	Listening on port 3018
+1618817344343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618817349428	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.137.14"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.137.14"
+1618817495757	Marionette	INFO	Stopped listening on port 3011618817496904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofiledhTKii"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618817500496	Marionette	INFO	Listening on port 3139
+1618817500574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618817505173	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 6864, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618817540198	Marionette	INFO	Stopped listening on port 3131618817543120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileNSMEio"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618817546732	Marionette	INFO	Listening on port 3226
+1618817546869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618817551007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.kansoftware.com/Scripts/js/modernizr.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.137.14"
+1618817633654	Marionette	INFO	Stopped listening on port 3226
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileMtqVSX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618817631481	Marionette	INFO	Listening on port 3332
+1618817631976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618817633810	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 7204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618817640064	Marionette	INFO	Stopped listening on port 3332
+1618817705825	geckodriver	INFO	Listening on 127.0.0.1:3426
+1618817708882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilegbvKWT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618817712497	Marionette	INFO	Listening on port 3434
+1618817712537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618817714487	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618817720961	Marionette	INFO	Stopped listening on port 3434
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618817927553	geckodriver	INFO	Listening on 127.0.0.1:3526
+1618817930656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileKdcYKe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618817934614	Marionette	INFO	Listening on port 3534
+1618817934835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618817936427	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618818422572	Marionette	INFO	Stopped listening on port 3534
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileaGK8HQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618818227584	Marionette	INFO	Listening on port 3661
+1618818227616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618818229894	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618818246506	Marionette	INFO	Stopped listening on port 3661
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618818267139	geckodriver	INFO	Listening on 127.0.0.1:3734
+1618818270224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilegCyMhc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618818274027	Marionette	INFO	Listening on port 3743
+1618818274395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618818276568	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618818292099	Marionette	INFO	Stopped listening on port 3743
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618818329916	geckodriver	INFO	Listening on 127.0.0.1:3822
+1618818333006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilegJI8E0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618818337206	Marionette	INFO	Listening on port 3830
+1618818337276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618818340106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618818373854	Marionette	INFO	Stopped listening on port 3830
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618818512857	geckodriver	INFO	Listening on 127.0.0.1:3969
+1618818515923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilelo49VD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618818519773	Marionette	INFO	Listening on port 3977
+1618818520129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618818521770	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618818890800	Marionette	INFO	Stopped listening on port 3977
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile9hJOCm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618818600559	Marionette	INFO	Listening on port 4058
+1618818600649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618818602470	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618818891700	Marionette	INFO	Stopped listening on port 4058
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618818745001	Marionette	INFO	Listening on port 4144
+1618818745076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618818746930	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://192.168.137.14"
+[Parent 17308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618818892535	Marionette	INFO	Stopped listening on port 4144
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618818888279	Marionette	INFO	Listening on port 4242
+1618818888940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618818891150	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 14984, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618818908529	Marionette	INFO	Stopped listening on port 4242
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618819299946	geckodriver	INFO	Listening on 127.0.0.1:4381
+1618819303033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileh2F3wx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618819306818	Marionette	INFO	Listening on port 4390
+1618819307233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618819309248	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 18592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618819339321	Marionette	INFO	Stopped listening on port 4390
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618819380388	geckodriver	INFO	Listening on 127.0.0.1:4461
+1618819383498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileol8mGV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618819387249	Marionette	INFO	Listening on port 4469
+1618819387749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618819389343	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618819403639	Marionette	INFO	Stopped listening on port 4469
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618819589590	geckodriver	INFO	Listening on 127.0.0.1:4566
+1618819592671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile8ynxuU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618819596393	Marionette	INFO	Listening on port 4575
+1618819596860	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1618819600622	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618819614662	Marionette	INFO	Stopped listening on port 4575
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618822006596	geckodriver	INFO	Listening on 127.0.0.1:4791
+1618822009681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileVJqYqr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618822013407	Marionette	INFO	Listening on port 4799
+1618822013865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618822015722	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618822067935	Marionette	INFO	Stopped listening on port 4799
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618822106159	geckodriver	INFO	Listening on 127.0.0.1:4872
+1618822109227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileei834V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618822112592	Marionette	INFO	Listening on port 4881
+1618822112883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618822114646	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618822429197	Marionette	INFO	Stopped listening on port 4881
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618822497405	geckodriver	INFO	Listening on 127.0.0.1:4978
+1618822500449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileney3I4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618822504194	Marionette	INFO	Listening on port 4986
+1618822504669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618822506478	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618822986233	Marionette	INFO	Stopped listening on port 4986
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilemA9gIW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618822614065	Marionette	INFO	Listening on port 5071
+1618822614287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618822616610	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618822788459	Marionette	INFO	Stopped listening on port 5071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
