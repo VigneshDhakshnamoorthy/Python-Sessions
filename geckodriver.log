@@ -5328,8 +5328,9 @@ JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Us
 JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
-1618827977787	geckodriver	INFO	Listening on 127.0.0.1:6751
-1618827980829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilemE4hxL"
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilemE4hxL"
 *** You are running in headless mode.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1618827983792	Marionette	INFO	Listening on port 6759
@@ -5341,3 +5342,81 @@ JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Us
 JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 1618828006905	Marionette	INFO	Stopped listening on port 6759
+1618829011640	geckodriver	INFO	Listening on 127.0.0.1:7169
+1618829014658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofile8Oowrz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618829018096	Marionette	INFO	Listening on port 7178
+1618829018336	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1618829027234	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618829071560	Marionette	INFO	Stopped listening on port 7178
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618829170548	geckodriver	INFO	Listening on 127.0.0.1:7266
+1618829173641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileGzvfmb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618829177123	Marionette	INFO	Listening on port 7274
+1618829177343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618829179536	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618829182406	Marionette	INFO	Stopped listening on port 7274
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 16580, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618829341128	geckodriver	INFO	Listening on 127.0.0.1:7354
+1618829344208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headlesss" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileyahTvw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618829347729	Marionette	INFO	Listening on port 7363
+1618829347920	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 674: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+1618829349820	Marionette	INFO	Stopped listening on port 7363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618829359290	geckodriver	INFO	Listening on 127.0.0.1:7399
+1618829362358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofileMU741T"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618829365486	Marionette	INFO	Listening on port 7407
+1618829365512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618829368071	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: http://192.168.137.14/dashboard.aspx, line 9: ReferenceError: $ is not defined
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.137.14/Script/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618829404019	Marionette	INFO	Stopped listening on port 7407
+[Parent 4516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

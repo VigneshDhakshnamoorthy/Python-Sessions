@@ -1,3 +1,4 @@
+import datetime
 import sys
 
 import pandas as pd
@@ -10,7 +11,7 @@ from webdriver_manager.firefox import GeckoDriverManager
 from time import sleep
 
 option = webdriver.FirefoxOptions()
-option.add_argument('--headless')
+option.add_argument("--headless")
 driver = webdriver.Firefox(
     executable_path=GeckoDriverManager().install(), options=option)
 wait = WebDriverWait(driver, 15)
@@ -21,8 +22,11 @@ ele_password = driver.find_element_by_id("txtpass").send_keys("v1990h")
 driver.find_element_by_id("btnLogin").click()
 driver.get("http://192.168.137.14/crm_report/sourceRptSummary_cc.aspx")
 
+start_date = datetime.date(year=2021, month=3, day=19)
+end_date = datetime.date(year=2021, month=4,  day=18)
 
-for i in range (1,19):
+current_date = start_date
+while current_date <= end_date:
 
     from_date = wait.until(
     EC.visibility_of_element_located(
@@ -39,8 +43,8 @@ for i in range (1,19):
 
     from_date.clear()
     to_date.clear()
-    from_date.send_keys(f'2021-04-{i}')
-    to_date.send_keys(f'2021-04-{i}')
+    from_date.send_keys(str(current_date))
+    to_date.send_keys(str(current_date))
     search_btn.click()
     
     driver.implicitly_wait(15)
@@ -57,6 +61,9 @@ for i in range (1,19):
     
     table.to_csv('pandas_numpy\Files\crm.csv', mode='a',
                     header=False, index=False)
+    
+    current_date += datetime.timedelta(days=1)
+
 
 
 driver.quit()
