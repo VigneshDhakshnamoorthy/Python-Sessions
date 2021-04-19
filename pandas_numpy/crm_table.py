@@ -19,9 +19,6 @@ driver.find_element_by_id("btnLogin").click()
 driver.get("http://192.168.137.14/crm_report/sourceRptSummary_cc.aspx")
 wait = WebDriverWait(driver, 10)
 
-ele_username
-
-
 
 for i in range (1,19):
 
