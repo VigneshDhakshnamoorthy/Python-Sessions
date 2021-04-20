@@ -10,11 +10,9 @@ data_base = pd.read_csv("Sql_Testing/database.txt")
 # print(data_base.columns)
 database = "Sql_Testing/db/product.db"
 table_name = "product"
-hdf5_file = "Sql_Testing/db/product.h5"
 conn = sql.connect(database)
 data_base.to_sql(table_name, conn, if_exists='replace', index=False)
 
 conn = sql.connect(database)
 sqlite_db = pd.read_sql(f'SELECT * FROM {table_name}', conn)
 print(sqlite_db)
-
