@@ -1,26 +1,13 @@
-# An example script to connect to Google using socket
-# programming in Python
-import socket  # for socket
-import sys
+import socket
 
-try:
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    print("Socket successfully created")
-except socket.error as err:
-    print("socket creation failed with error %s" % (err))
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+s.connect((socket.gethostname(),1234))
 
-# default port for socket
-port = 80
+full_msg = ''
+while True:
+    msg = s.recv(8)
+    if len(msg) <= 0:
+        break
+    full_msg+=msg.decode("utf-8")
 
-try:
-    host_ip = socket.gethostbyname('www.google.com')
-except socket.gaierror:
-
-    # this means could not resolve the host
-    print("there was an error resolving the host")
-    sys.exit()
-
-# connecting to the server
-s.connect((host_ip, port))
-
-print("the socket has successfully connected to google")
+print(full_msg)
