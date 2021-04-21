@@ -5429,7 +5429,8 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1618835510040	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
- Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilejdhvBv"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+-foreground" "-no-remote" "-profile" "C:\\Users\\vigne\\AppData\\Local\\Temp\\rust_mozprofilejdhvBv"
 *** You are running in headless mode.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1618835630612	Marionette	INFO	Listening on port 8393
