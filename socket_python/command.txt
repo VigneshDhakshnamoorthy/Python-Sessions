@@ -1,0 +1,2 @@
+python socket_python\server.py
+python socket_python\client.py
