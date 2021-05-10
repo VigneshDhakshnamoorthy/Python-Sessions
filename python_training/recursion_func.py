@@ -19,5 +19,3 @@ def reverse_string(string: str) -> str:
 
 
 print(f'reverse_string of stressed = {reverse_string("stressed")}')
-
-        
