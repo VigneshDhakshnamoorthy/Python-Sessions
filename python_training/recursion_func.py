@@ -1,3 +1,6 @@
+from typing import no_type_check
+
+
 def fact(n):
     if n == 1:
         return 1
@@ -16,3 +19,5 @@ def reverse_string(string: str) -> str:
 
 
 print(f'reverse_string of stressed = {reverse_string("stressed")}')
+
+        
