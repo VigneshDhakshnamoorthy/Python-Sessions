@@ -5448,3 +5448,11 @@ console.log: WebExtensions: reset-default-search: No addons in our list are inst
 JavaScript error: http://123.201.136.226/crm_report/sourceRptSummary_cc.aspx, line 433: TypeError: $(...).datetimepicker is not a function
 1618836170658	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1618836306859	Marionette	INFO	Stopped listening on port 8393
+1621590562650	geckodriver	INFO	Listening on 127.0.0.1:12319
+1621590565892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Vignesh\\AppData\\Local\\Temp\\rust_mozprofiler09JhZ"
+1621590568156	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621590575292	Marionette	INFO	Listening on port 12327
+1621590575837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621590591196	Marionette	INFO	Stopped listening on port 12327
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
