@@ -1,5 +1,6 @@
 behave Py_Behave/features/google_search.feature --tags @single
 behave --verbose Py_Behave/features
+behave Py_Behave/features --tags @single
 
 
 behave  -f allure_behave.formatter:AllureFormatter -o Py_Behave/allure Py_Behave/features
