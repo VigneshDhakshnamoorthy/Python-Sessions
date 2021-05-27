@@ -1,2 +1,6 @@
 
 pytest pytest_training\browser_yield.py
+pytest pytest_training
+
+py.test -v -m url
+py.test pytest_training -v -m url
