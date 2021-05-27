@@ -11,7 +11,7 @@ def multi_thread():
 
 
 with concurrent.futures.ThreadPoolExecutor() as executor:
-    result = [executor.submit(multi_thread) for _ in range(11)]
+    result = [executor.submit(multi_thread) for _ in range(100)]
 
     for f in concurrent.futures.as_completed(result):
         print(f.result())
