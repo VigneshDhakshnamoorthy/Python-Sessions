@@ -1,33 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 4.0 (Python 3.9.4 on win32)" generated="20210413 15:12:35.733" rpa="false" schemaversion="2">
-<suite id="s1" name="TC1" source="C:\Users\vigne\Documents\python\Robot_Framework_Training\Testcase\TC1.robot">
-<test id="s1-t1" name="LoginTest">
-<kw name="Open Browser" library="SeleniumLibrary">
-<arg>${LOGIN URL}</arg>
-<arg>${BROWSER}</arg>
-<doc>Opens a new browser instance to the optional ``url``.</doc>
-<msg timestamp="20210413 15:12:36.015" level="INFO">Opening browser 'Firefox' to base url 'http://www.google.com'.</msg>
-<msg timestamp="20210413 15:12:36.017" level="INFO">Firefox driver log is always forced to to: C:\Users\vigne\Documents\python\Robot_Framework_Training\report\geckodriver-6.log</msg>
-<status status="PASS" starttime="20210413 15:12:36.015" endtime="20210413 15:12:53.520"/>
+<robot generator="Robot 4.0 (Python 3.9.4 on win32)" generated="20210629 11:10:15.582" rpa="true" schemaversion="2">
+<suite id="s1" name="TC2" source="C:\Users\vigne\Documents\python\Robot_Framework_Training\Testcase\TC2.robot">
+<test id="s1-t1" name="Select value from dropdown menu">
+<kw name="Open Available Browser">
+<arg>https://ccxuf.csb.app/</arg>
+<msg timestamp="20210629 11:10:15.612" level="FAIL">No keyword with name 'Open Available Browser' found.</msg>
+<status status="FAIL" starttime="20210629 11:10:15.612" endtime="20210629 11:10:15.612"/>
 </kw>
-<kw name="Close All Browsers" library="SeleniumLibrary">
-<doc>Closes all open browsers and resets the browser cache.</doc>
-<status status="PASS" starttime="20210413 15:12:53.520" endtime="20210413 15:12:55.272"/>
+<kw name="Wait Until Element Is Visible">
+<arg>id:famous-robots</arg>
+<status status="NOT RUN" starttime="20210629 11:10:15.613" endtime="20210629 11:10:15.613"/>
 </kw>
-<status status="PASS" starttime="20210413 15:12:36.011" endtime="20210413 15:12:55.272"/>
+<kw name="Select From List By Value">
+<arg>id:famous-robots</arg>
+<arg>wall-e</arg>
+<status status="NOT RUN" starttime="20210629 11:10:15.615" endtime="20210629 11:10:15.615"/>
+</kw>
+<kw name="Capture Page Screenshot">
+<status status="NOT RUN" starttime="20210629 11:10:15.615" endtime="20210629 11:10:15.615"/>
+</kw>
+<kw name="Close All Browsers" type="TEARDOWN">
+<msg timestamp="20210629 11:10:15.615" level="FAIL">No keyword with name 'Close All Browsers' found.</msg>
+<status status="FAIL" starttime="20210629 11:10:15.615" endtime="20210629 11:10:15.615">No keyword with name 'Close All Browsers' found.</status>
+</kw>
+<status status="FAIL" starttime="20210629 11:10:15.610" endtime="20210629 11:10:15.615">No keyword with name 'Open Available Browser' found.
+
+Also teardown failed:
+No keyword with name 'Close All Browsers' found.</status>
 </test>
-<status status="PASS" starttime="20210413 15:12:35.736" endtime="20210413 15:12:55.275"/>
+<doc>Selecting items from dropdown menus (Selenium).</doc>
+<status status="FAIL" starttime="20210629 11:10:15.582" endtime="20210629 11:10:15.620"/>
 </suite>
 <statistics>
 <total>
-<stat pass="1" fail="0" skip="0">All Tests</stat>
+<stat pass="0" fail="1" skip="0">All Tasks</stat>
 </total>
 <tag>
 </tag>
 <suite>
-<stat pass="1" fail="0" skip="0" id="s1" name="TC1">TC1</stat>
+<stat pass="0" fail="1" skip="0" id="s1" name="TC2">TC2</stat>
 </suite>
 </statistics>
 <errors>
+<msg timestamp="20210629 11:10:15.600" level="ERROR">Error in file 'C:\Users\vigne\Documents\python\Robot_Framework_Training\Testcase\TC2.robot' on line 3: Importing library 'RPA.Browser.Selenium' failed: ModuleNotFoundError: No module named 'RPA'
+Traceback (most recent call last):
+  None
+PYTHONPATH:
+  C:\Users\vigne\.virtualenvs\python-2mmW-UTN\Scripts\robot.exe
+  c:\users\vigne\appdata\local\programs\python\python39\python39.zip
+  c:\users\vigne\appdata\local\programs\python\python39\DLLs
+  c:\users\vigne\appdata\local\programs\python\python39\lib
+  c:\users\vigne\appdata\local\programs\python\python39
+  c:\users\vigne\.virtualenvs\python-2mmw-utn
+  c:\users\vigne\.virtualenvs\python-2mmw-utn\lib\site-packages
+  c:\users\vigne\.virtualenvs\python-2mmw-utn\lib\site-packages\win32
+  c:\users\vigne\.virtualenvs\python-2mmw-utn\lib\site-packages\win32\lib
+  c:\users\vigne\.virtualenvs\python-2mmw-utn\lib\site-packages\Pythonwin</msg>
 </errors>
 </robot>
