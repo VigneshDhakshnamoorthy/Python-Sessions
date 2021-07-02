@@ -17,7 +17,7 @@ def browser():
     # For cleanup, quit the driver
     browser.quit()
 
-  
+
 def test_get_url(browser):
     browser.get(url)
 

@@ -2,6 +2,12 @@ pipenv lock -r > requirements.txt
 
 pipenv install -r requirements.txt
 
+command prompt:
+
+cd to dir
+pipenv shell
+run command
+
 
 
 

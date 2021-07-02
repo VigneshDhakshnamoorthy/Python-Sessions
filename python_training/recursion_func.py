@@ -1,3 +1,6 @@
+from typing import no_type_check
+
+
 def fact(n):
     if n == 1:
         return 1
