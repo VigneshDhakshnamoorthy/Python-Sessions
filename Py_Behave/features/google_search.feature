@@ -14,6 +14,6 @@ Feature: google search checking
     When search element with "<name>"
     Then back to homepage
     Examples:
-      | name   |
-      | Java   |
-      | Python |
+      | name       |
+      | Selenium   |
+      | Python     |

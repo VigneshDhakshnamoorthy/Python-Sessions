@@ -20,3 +20,18 @@ d.popitem()
 d[6]="Vignesh"
 del d[4]
 print(d)
+
+total = {}
+
+
+def fruits(items):
+    if items in total:
+        total[items] += 1
+    else:
+        total[items] = 1
+
+
+fruits('Apple')
+fruits('Banana')
+fruits('Apple')
+print(total)
