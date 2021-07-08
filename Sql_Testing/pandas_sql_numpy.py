@@ -13,6 +13,7 @@ table_name = "product"
 conn = sql.connect(database)
 data_base.to_sql(table_name, conn, if_exists='replace', index=False)
 
+
 conn = sql.connect(database)
 sqlite_db = pd.read_sql(f'SELECT * FROM {table_name}', conn)
 print(sqlite_db)
