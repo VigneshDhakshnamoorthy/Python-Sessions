@@ -5537,3 +5537,15 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1626024042067	geckodriver	INFO	Listening on 127.0.0.1:2180
+1626024045119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\vignesh\\AppData\\Local\\Temp\\rust_mozprofile3gC8bL"
+*** You are running in headless mode.
+1626024048408	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vignesh\\AppData\\Local\\Temp\\rust_mozprofile3gC8bL\\search.json.mozlz4", (void 0)))
+1626024061654	Marionette	INFO	Listening on port 2188
+1626024062268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cb2mw2WinOMtWtGs0R55F9Q12t9OCLrgBJOC-Z0cEoc.js line 1 > eval line 5186 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
