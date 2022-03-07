@@ -1,8 +1,0 @@
-{
-    "python.pythonPath": "C:\\Users\\vignesh\\.virtualenvs\\Python-Automation-qWSISJVP\\Scripts\\python.exe",
-    "git.allowForcePush": true,
-    "git.allowNoVerifyCommit": true,
-    "git.postCommitCommand": "push",
-    "git.autofetch": true,
-   
-}
